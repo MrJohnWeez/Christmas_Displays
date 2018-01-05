@@ -1,3 +1,5 @@
+//This file will set the lights/channels based on the serial number given
+//MrJohnWeez 2017
 
 #include <TimerOne.h>
 
