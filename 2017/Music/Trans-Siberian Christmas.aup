@@ -1,0 +1,301 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Trans-Siberian Christmas_data" version="1.3.0" audacityversion="2.1.2" sel0="43.5290361571" sel1="43.5290361571" vpos="352" h="187.8891903720" zoom="83.7142358688" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="Software" value="Lavf57.26.100"/>
+		<tag name="comment" value="www.dvdvideosoft.com"/>
+		<tag name="TITLE" value="Trans-Siberian Orchestra - Christmas Canon [Lyrics]"/>
+	</tags>
+	<wavetrack name="Trans-Siberian Orchestra - Christmas Canon [Lyrics]" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="-0.60417234">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="26644">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000331.au" len="26644" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="-0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1970203">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000f9f.au" len="89555" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+				<waveblock start="89555">
+					<simpleblockfile filename="e0000b90.au" len="163168" min="-0.272547" max="0.301637" rms="0.066475"/>
+				</waveblock>
+				<waveblock start="252723">
+					<simpleblockfile filename="e00006b8.au" len="262144" min="-0.351373" max="0.314061" rms="0.075165"/>
+				</waveblock>
+				<waveblock start="514867">
+					<simpleblockfile filename="e000075f.au" len="262144" min="-0.348793" max="0.370407" rms="0.090984"/>
+				</waveblock>
+				<waveblock start="777011">
+					<simpleblockfile filename="e00006ed.au" len="262144" min="-0.318077" max="0.349116" rms="0.085889"/>
+				</waveblock>
+				<waveblock start="1039155">
+					<simpleblockfile filename="e00009d5.au" len="262144" min="-0.360229" max="0.413189" rms="0.099123"/>
+				</waveblock>
+				<waveblock start="1301299">
+					<simpleblockfile filename="e0000e1e.au" len="262144" min="-0.392796" max="0.473746" rms="0.10336"/>
+				</waveblock>
+				<waveblock start="1563443">
+					<simpleblockfile filename="e0000c9f.au" len="262144" min="-0.473288" max="0.489063" rms="0.108514"/>
+				</waveblock>
+				<waveblock start="1825587">
+					<simpleblockfile filename="e000081d.au" len="144616" min="-0.406415" max="0.418385" rms="0.084646"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Trans-Siberian Orchestra - Christmas Canon [Lyrics]" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="-0.60417234">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="26644">
+				<waveblock start="0">
+					<simpleblockfile filename="e000046c.au" len="26644" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="-0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1970203">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008ef.au" len="89555" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+				<waveblock start="89555">
+					<simpleblockfile filename="e0000092.au" len="163168" min="-0.296219" max="0.381917" rms="0.063902"/>
+				</waveblock>
+				<waveblock start="252723">
+					<simpleblockfile filename="e000042c.au" len="262144" min="-0.311332" max="0.341991" rms="0.07148"/>
+				</waveblock>
+				<waveblock start="514867">
+					<simpleblockfile filename="e0000c3b.au" len="262144" min="-0.365407" max="0.355445" rms="0.0814"/>
+				</waveblock>
+				<waveblock start="777011">
+					<simpleblockfile filename="e0000510.au" len="262144" min="-0.367879" max="0.425283" rms="0.087605"/>
+				</waveblock>
+				<waveblock start="1039155">
+					<simpleblockfile filename="e000087e.au" len="262144" min="-0.364143" max="0.402364" rms="0.081441"/>
+				</waveblock>
+				<waveblock start="1301299">
+					<simpleblockfile filename="e00006d6.au" len="262144" min="-0.414411" max="0.409032" rms="0.099826"/>
+				</waveblock>
+				<waveblock start="1563443">
+					<simpleblockfile filename="e0000d56.au" len="262144" min="-0.458278" max="0.486156" rms="0.106575"/>
+				</waveblock>
+				<waveblock start="1825587">
+					<simpleblockfile filename="e000036e.au" len="144616" min="-0.415169" max="0.464628" rms="0.081702"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Carol of the Bells - Trans-Siberian Orchestra - Higher Quality" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="44.67580499">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3241004">
+				<waveblock start="0">
+					<simpleblockfile filename="e00009ca.au" len="155231" min="-0.236588" max="0.27014" rms="0.037819"/>
+				</waveblock>
+				<waveblock start="155231">
+					<simpleblockfile filename="e00013c5.au" len="155232" min="-0.266237" max="0.318062" rms="0.045923"/>
+				</waveblock>
+				<waveblock start="310463">
+					<simpleblockfile filename="e0000f2a.au" len="262144" min="-0.467451" max="0.438185" rms="0.108181"/>
+				</waveblock>
+				<waveblock start="572607">
+					<simpleblockfile filename="e0000cbf.au" len="262144" min="-0.523198" max="0.594937" rms="0.126365"/>
+				</waveblock>
+				<waveblock start="834751">
+					<simpleblockfile filename="e0000880.au" len="262144" min="-0.572091" max="0.501866" rms="0.126043"/>
+				</waveblock>
+				<waveblock start="1096895">
+					<simpleblockfile filename="e000057c.au" len="262144" min="-0.532224" max="0.614558" rms="0.130462"/>
+				</waveblock>
+				<waveblock start="1359039">
+					<simpleblockfile filename="e000093a.au" len="262144" min="-0.506745" max="0.514153" rms="0.111592"/>
+				</waveblock>
+				<waveblock start="1621183">
+					<simpleblockfile filename="e0000368.au" len="262144" min="-0.496315" max="0.560259" rms="0.132154"/>
+				</waveblock>
+				<waveblock start="1883327">
+					<simpleblockfile filename="e00002b6.au" len="262144" min="-0.533219" max="0.584332" rms="0.128555"/>
+				</waveblock>
+				<waveblock start="2145471">
+					<simpleblockfile filename="e0000cff.au" len="262144" min="-0.586912" max="0.500385" rms="0.1316"/>
+				</waveblock>
+				<waveblock start="2407615">
+					<simpleblockfile filename="e0000a89.au" len="262144" min="-0.530614" max="0.522289" rms="0.130476"/>
+				</waveblock>
+				<waveblock start="2669759">
+					<simpleblockfile filename="e00009d7.au" len="262144" min="-0.517913" max="0.544218" rms="0.130418"/>
+				</waveblock>
+				<waveblock start="2931903">
+					<simpleblockfile filename="e0001686.au" len="154550" min="-0.67372" max="0.542657" rms="0.098439"/>
+				</waveblock>
+				<waveblock start="3086453">
+					<simpleblockfile filename="e0001b22.au" len="154551" min="-0.552221" max="0.461381" rms="0.129238"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Carol of the Bells - Trans-Siberian Orchestra - Higher Quality" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="44.67580499">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3241004">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ce6.au" len="155231" min="-0.264417" max="0.295158" rms="0.036129"/>
+				</waveblock>
+				<waveblock start="155231">
+					<simpleblockfile filename="e0001785.au" len="155232" min="-0.330365" max="0.342776" rms="0.044452"/>
+				</waveblock>
+				<waveblock start="310463">
+					<simpleblockfile filename="e0000b8f.au" len="262144" min="-0.426982" max="0.452921" rms="0.090263"/>
+				</waveblock>
+				<waveblock start="572607">
+					<simpleblockfile filename="e0000070.au" len="262144" min="-0.553985" max="0.480638" rms="0.111846"/>
+				</waveblock>
+				<waveblock start="834751">
+					<simpleblockfile filename="e0000435.au" len="262144" min="-0.593587" max="0.524597" rms="0.114481"/>
+				</waveblock>
+				<waveblock start="1096895">
+					<simpleblockfile filename="e0000c32.au" len="262144" min="-0.475767" max="0.47731" rms="0.11757"/>
+				</waveblock>
+				<waveblock start="1359039">
+					<simpleblockfile filename="e0000453.au" len="262144" min="-0.471307" max="0.504414" rms="0.103727"/>
+				</waveblock>
+				<waveblock start="1621183">
+					<simpleblockfile filename="e0000821.au" len="262144" min="-0.507446" max="0.539714" rms="0.119106"/>
+				</waveblock>
+				<waveblock start="1883327">
+					<simpleblockfile filename="e00004c6.au" len="262144" min="-0.462149" max="0.544842" rms="0.11613"/>
+				</waveblock>
+				<waveblock start="2145471">
+					<simpleblockfile filename="e0000598.au" len="262144" min="-0.55514" max="0.484212" rms="0.12569"/>
+				</waveblock>
+				<waveblock start="2407615">
+					<simpleblockfile filename="e0000fec.au" len="262144" min="-0.514511" max="0.524429" rms="0.12655"/>
+				</waveblock>
+				<waveblock start="2669759">
+					<simpleblockfile filename="e00001b9.au" len="262144" min="-0.510856" max="0.600919" rms="0.123129"/>
+				</waveblock>
+				<waveblock start="2931903">
+					<simpleblockfile filename="e000131f.au" len="154550" min="-0.621105" max="0.570431" rms="0.096601"/>
+				</waveblock>
+				<waveblock start="3086453">
+					<simpleblockfile filename="e00013eb.au" len="154551" min="-0.497768" max="0.454231" rms="0.123329"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Wizards in Winter - Trans-Siberian Orchestra" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="118.16795918">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3836441">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001c0e.au" len="176259" min="-0.854214" max="0.881356" rms="0.180598"/>
+				</waveblock>
+				<waveblock start="176259">
+					<simpleblockfile filename="e0001325.au" len="176260" min="-0.897082" max="0.862578" rms="0.201456"/>
+				</waveblock>
+				<waveblock start="352519">
+					<simpleblockfile filename="e000002a.au" len="262144" min="-0.904937" max="0.890456" rms="0.209553"/>
+				</waveblock>
+				<waveblock start="614663">
+					<simpleblockfile filename="e0000655.au" len="262144" min="-0.918051" max="0.864353" rms="0.210688"/>
+				</waveblock>
+				<waveblock start="876807">
+					<simpleblockfile filename="e0000488.au" len="262144" min="-0.878631" max="0.901766" rms="0.205901"/>
+				</waveblock>
+				<waveblock start="1138951">
+					<simpleblockfile filename="e00008af.au" len="262144" min="-0.971581" max="0.942085" rms="0.160907"/>
+				</waveblock>
+				<waveblock start="1401095">
+					<simpleblockfile filename="e0000ffd.au" len="262144" min="-1.056927" max="1.009017" rms="0.251215"/>
+				</waveblock>
+				<waveblock start="1663239">
+					<simpleblockfile filename="e000049a.au" len="262144" min="-0.963019" max="0.98309" rms="0.237141"/>
+				</waveblock>
+				<waveblock start="1925383">
+					<simpleblockfile filename="e00003b8.au" len="262144" min="-0.943384" max="0.935831" rms="0.16109"/>
+				</waveblock>
+				<waveblock start="2187527">
+					<simpleblockfile filename="e000098a.au" len="262144" min="-0.981258" max="1.074793" rms="0.264456"/>
+				</waveblock>
+				<waveblock start="2449671">
+					<simpleblockfile filename="e000059b.au" len="262144" min="-0.963858" max="0.992496" rms="0.265384"/>
+				</waveblock>
+				<waveblock start="2711815">
+					<simpleblockfile filename="e00003a4.au" len="262144" min="-1.028422" max="1.008293" rms="0.274964"/>
+				</waveblock>
+				<waveblock start="2973959">
+					<simpleblockfile filename="e00000d2.au" len="262144" min="-0.982225" max="0.987336" rms="0.258025"/>
+				</waveblock>
+				<waveblock start="3236103">
+					<simpleblockfile filename="e0000b2f.au" len="262144" min="-0.996024" max="0.957686" rms="0.220893"/>
+				</waveblock>
+				<waveblock start="3498247">
+					<simpleblockfile filename="e000104d.au" len="169097" min="-0.964633" max="1.016869" rms="0.211346"/>
+				</waveblock>
+				<waveblock start="3667344">
+					<simpleblockfile filename="e0001848.au" len="169097" min="-0.042645" max="0.029051" rms="0.001867"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Wizards in Winter - Trans-Siberian Orchestra" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="118.16795918">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3836441">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001b65.au" len="176259" min="-0.921588" max="0.912762" rms="0.206097"/>
+				</waveblock>
+				<waveblock start="176259">
+					<simpleblockfile filename="e0001bbf.au" len="176260" min="-0.970173" max="0.904622" rms="0.228788"/>
+				</waveblock>
+				<waveblock start="352519">
+					<simpleblockfile filename="e0000ff2.au" len="262144" min="-0.908208" max="0.933638" rms="0.251718"/>
+				</waveblock>
+				<waveblock start="614663">
+					<simpleblockfile filename="e00000bc.au" len="262144" min="-0.929117" max="0.962304" rms="0.244405"/>
+				</waveblock>
+				<waveblock start="876807">
+					<simpleblockfile filename="e0000517.au" len="262144" min="-0.911743" max="0.932621" rms="0.25164"/>
+				</waveblock>
+				<waveblock start="1138951">
+					<simpleblockfile filename="e0000ac3.au" len="262144" min="-0.980978" max="0.956408" rms="0.171446"/>
+				</waveblock>
+				<waveblock start="1401095">
+					<simpleblockfile filename="e0000fc2.au" len="262144" min="-0.99268" max="0.988564" rms="0.267049"/>
+				</waveblock>
+				<waveblock start="1663239">
+					<simpleblockfile filename="e0000a25.au" len="262144" min="-0.980175" max="1.029719" rms="0.246831"/>
+				</waveblock>
+				<waveblock start="1925383">
+					<simpleblockfile filename="e0000d15.au" len="262144" min="-0.98371" max="1.007199" rms="0.176497"/>
+				</waveblock>
+				<waveblock start="2187527">
+					<simpleblockfile filename="e00004fb.au" len="262144" min="-0.991347" max="0.986714" rms="0.282511"/>
+				</waveblock>
+				<waveblock start="2449671">
+					<simpleblockfile filename="e0000a21.au" len="262144" min="-0.999355" max="0.980404" rms="0.286562"/>
+				</waveblock>
+				<waveblock start="2711815">
+					<simpleblockfile filename="e0000b0b.au" len="262144" min="-1.037099" max="0.997073" rms="0.281349"/>
+				</waveblock>
+				<waveblock start="2973959">
+					<simpleblockfile filename="e0000044.au" len="262144" min="-1.00581" max="1.037031" rms="0.267015"/>
+				</waveblock>
+				<waveblock start="3236103">
+					<simpleblockfile filename="e00002ab.au" len="262144" min="-0.988269" max="0.961241" rms="0.235863"/>
+				</waveblock>
+				<waveblock start="3498247">
+					<simpleblockfile filename="e000125c.au" len="169097" min="-0.98904" max="0.972324" rms="0.226119"/>
+				</waveblock>
+				<waveblock start="3667344">
+					<simpleblockfile filename="e0001fc6.au" len="169097" min="-0.039189" max="0.025545" rms="0.001668"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
