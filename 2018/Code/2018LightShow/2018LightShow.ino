@@ -1,6 +1,6 @@
 
 #include <TimerOne.h>
-
+ 
 // Output to Triac pin channels
 unsigned char channel_1 = 3;   // BottomTree
 unsigned char channel_2 = 4;   // MiddleTree
@@ -32,7 +32,7 @@ int RopeLow = 200;
 //Rope = 2
 //-Rope Lighting
 
-unsigned char LightType[] = {0,0,0,1,1,0,0,2,0,0};
+unsigned char LightType[] = {0,0,0,1,1,0,1,2,0,0};
 unsigned char CH1,CH2,CH3,CH4,CH5,CH6,CH7,CH8,CH9,CH10;
 
 //ChannelNumbers and ChannelValues must have the same number of values
@@ -44,11 +44,26 @@ unsigned char clock_tick; // variable for Timer1
 int incomingByte[sizeof(ChannelValues)];
 int channelCount = sizeof(ChannelValues);
 
+// Convert a 0-255 value to a type of light value
+int convertNumber(int inByte, int lightType)
+{
+  if(lightType == 0){
+    if(inByte == 0) { return 0; }
+    return map(inByte, 0, 255, NormalLow, NormalHigh);
+  }else if(lightType == 1){
+    return map(inByte, 0, 255, LedLow, LedHigh);
+  }else if(lightType == 2){
+    return map(inByte, 0, 255, RopeLow, RopeHigh);
+  }else{
+    return inByte;
+  }
+}
+
 void setup()
 {
   for(int CH_I = 0; CH_I < channelCount; CH_I++)
   {
-    ChannelValues[CH_I] = 0; // Turn off all channels
+    ChannelValues[CH_I] = convertNumber(0,LightType[CH_I]); // Turn off all channels
     pinMode(ChannelNumbers[CH_I], OUTPUT); // Set triac firing pin mode
   }
   
@@ -81,20 +96,7 @@ void zero_crosss_int()
 clock_tick=0;
 }
 
-// Convert a 0-255 value to a type of light value
-int convertNumber(int inByte, int lightType)
-{
-  if(lightType == 0){
-    if(inByte == 0) { return 0; }
-    return map(inByte, 0, 255, NormalLow, NormalHigh);
-  }else if(lightType == 1){
-    return map(inByte, 0, 255, LedLow, LedHigh);
-  }else if(lightType == 2){
-    return map(inByte, 0, 255, RopeLow, RopeHigh);
-  }else{
-    return inByte;
-  }
-}
+
 
 void loop()
 {

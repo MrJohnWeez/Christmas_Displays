@@ -11,12 +11,13 @@ unsigned char channel_6 = 8;  // CiramicTree
 unsigned char channel_7 = 9;  // LEDTree
 unsigned char channel_8 = 10; // TopStar
 unsigned char channel_9 = 11; // FireLED
+unsigned char channel_10 = 12; // FireLED
 
 // 0 = Normal, 1 = LED Strand, 2 = LED Star
-unsigned char LightType[] = {0,0,0,0,0,0,1,2,1};
-unsigned char CH1,CH2,CH3,CH4,CH5,CH6,CH7,CH8, CH9;
-unsigned char ChannelNumbers[] = {channel_1, channel_2, channel_3, channel_4, channel_5, channel_6, channel_7, channel_8, channel_9};
-unsigned char CH[]={CH1, CH2, CH3, CH4, CH5, CH6, CH7, CH8, CH9};
+unsigned char LightType[] = {0,0,0,0,1,0,1,0,0,0};
+unsigned char CH1,CH2,CH3,CH4,CH5,CH6,CH7,CH8, CH9, CH10;
+unsigned char ChannelNumbers[] = {channel_1, channel_2, channel_3, channel_4, channel_5, channel_6, channel_7, channel_8, channel_9,channel_10};
+unsigned char CH[]={CH1, CH2, CH3, CH4, CH5, CH6, CH7, CH8, CH9, CH10};
 
 unsigned char clock_tick; // variable for Timer1
 
@@ -39,7 +40,7 @@ float convertStar = 255.0/(float)StarLEDLow;
 
 
 void setup() {
-CH1=CH2=CH3=CH4=CH5=CH6=CH7=CH8=CH9=90;   // Turn off all channels
+CH1=CH2=CH3=CH4=CH5=CH6=CH7=CH8=CH9=CH10=90;   // Turn off all channels
 
 // Set pinmodes
 for(int CH_I = 0; CH_I < sizeof(ChannelNumbers); CH_I++){
@@ -109,28 +110,28 @@ int convertNumber(int inByte, int lightType){
 
 void loop() {
 
-//  if (Serial.available() >= sizeof(ChannelNumbers))
-//    {
-//      for (int i=0; i<sizeof(ChannelNumbers);i++)
-//      {
-//        incomingByte[i] = Serial.read();
-//      }
-//
-//      for(int c = 0; c < sizeof(CH); c++){
-//        int tempInt = convertNumber(incomingByte[c],LightType[c]);
-//        CH[c] = tempInt;
-//      }
-//    }
+  if (Serial.available() >= sizeof(ChannelNumbers))
+    {
+      for (int i=0; i<sizeof(ChannelNumbers);i++)
+      {
+        incomingByte[i] = Serial.read();
+      }
 
-CH[0] = 4;
-CH[1] = 4;
-CH[2] = 4;
-CH[3] = 4;
-CH[4] = 4;
-CH[5] = 4;
-CH[6] = 22;
-CH[7] = 13;
-CH[8] = 22;
+      for(int c = 0; c < sizeof(CH); c++){
+        int tempInt = convertNumber(incomingByte[c],LightType[c]);
+        CH[c] = tempInt;
+      }
+    }
+
+//CH[0] = 4;
+//CH[1] = 4;
+//CH[2] = 4;
+//CH[3] = 4;
+//CH[4] = 4;
+//CH[5] = 4;
+//CH[6] = 22;
+//CH[7] = 13;
+//CH[8] = 22;
 
 
 }

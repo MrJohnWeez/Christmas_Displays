@@ -13,26 +13,30 @@ unsigned char channel_8 = 10;
 unsigned char channel_9 = 11;
 unsigned char channel_10 = 12;
 
-//Power
+// Power
 int NormalHigh = 125;
 int LedHigh = 45;
-int RopeHigh = 125;
+int RopeHigh = 25;
+int StarHigh = 20;
 
 int NormalLow = 169;
 int LedLow = 110;
-int RopeLow = 200;
+int RopeLow = 100;
+int StarLow = 105;
 
 //Normal = 0
 //-Small lights
 
 //Led = 1
 //-Big lights
-//-Star
 
 //Rope = 2
 //-Rope Lighting
 
-unsigned char LightType[] = {0,0,0,0,0,0,1,2,1,0};
+//Star = 3
+// Star
+
+unsigned char LightType[] = {0,0,0,3,0,0,1,2,1,0};
 unsigned char CH1,CH2,CH3,CH4,CH5,CH6,CH7,CH8,CH9,CH10;
 
 //ChannelNumbers and ChannelValues must have the same number of values
@@ -48,13 +52,31 @@ int channelCount = sizeof(ChannelValues);
 int foo = 100;
 char buffer[6];
 
+// Convert a 0-255 value to a type of light value
+int convertNumber(int inByte, int lightType)
+{
+  if(lightType == 0){
+    if(inByte == 0) { return 0; }
+    return map(inByte, 0, 255, NormalLow, NormalHigh);
+  }else if(lightType == 1){
+    return map(inByte, 0, 255, LedLow, LedHigh);
+  }else if(lightType == 2){
+    return map(inByte, 0, 255, RopeLow, RopeHigh);
+  }else if(lightType == 3){
+    return map(inByte, 0, 255, StarLow, StarHigh);
+  }else{
+    return inByte;
+  }
+}
+
 void setup()
 {
   for(int CH_I = 0; CH_I < channelCount; CH_I++)
   {
-    ChannelValues[CH_I] = 0; // Turn off all channels
+    ChannelValues[CH_I] = convertNumber(0,LightType[CH_I]); // Turn off all channels
     pinMode(ChannelNumbers[CH_I], OUTPUT); // Set triac firing pin mode
   }
+  
   
   Serial.begin(9600);
   attachInterrupt(0, zero_crosss_int, RISING);
@@ -85,52 +107,38 @@ void zero_crosss_int()
 clock_tick=0;
 }
 
-// Convert a 0-255 value to a type of light value
-int convertNumber(int inByte, int lightType)
-{
-  if(lightType == 0){
-    if(inByte == 0) { return 0; }
-    return map(inByte, 0, 255, NormalLow, NormalHigh);
-  }else if(lightType == 1){
-    return map(inByte, 0, 255, LedLow, LedHigh);
-  }else if(lightType == 2){
-    return map(inByte, 0, 255, RopeLow, RopeHigh);
-  }else{
-    return inByte;
-  }
-}
 
 void loop()
 {
-  if (Serial.available() >= channelCount)
-    {
-      for (int i = 0; i < channelCount; i++)
-      {
-        incomingByte[i] = Serial.read();
-      }
-
-      for(int c = 0; c < channelCount; c++)
-      {
-        int tempInt = convertNumber(incomingByte[c],LightType[c]);
-        ChannelValues[c] = tempInt;
-      }
-    }
-
-
+//  if (Serial.available() >= channelCount)
+//    {
+//      for (int i = 0; i < channelCount; i++)
+//      {
+//        incomingByte[i] = Serial.read();
+//      }
+//
+//      for(int c = 0; c < channelCount; c++)
+//      {
+//        int tempInt = convertNumber(incomingByte[c],LightType[c]);
+//        ChannelValues[c] = tempInt;
+//      }
+//    }
 
 
-//  int index;  
-//  while (Serial.available()) 
-//  {
-//    index = Serial.readBytesUntil('\n', buffer, 5);  //newline or max of 5 chars
-//    buffer[index] = '\0';
-//  
-//    int n = atoi(buffer);  //convert readString into a number
-//    Serial.println(n); //so you can see the integer
-//    CH[0] = n;
-//    buffer[0] = '\0';
-//  } 
-//  Serial.println(CH[0]);
+
+
+  int index;  
+  while (Serial.available()) 
+  {
+    index = Serial.readBytesUntil('\n', buffer, 5);  //newline or max of 5 chars
+    buffer[index] = '\0';
+  
+    int n = atoi(buffer);  //convert readString into a number
+    Serial.println(n); //so you can see the integer
+    ChannelValues[0] = n;
+    buffer[0] = '\0';
+  } 
+  Serial.println(ChannelValues[0]);
 
 
 
