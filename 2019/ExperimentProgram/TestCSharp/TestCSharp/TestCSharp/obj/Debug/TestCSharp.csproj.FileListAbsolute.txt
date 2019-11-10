@@ -1,0 +1,7 @@
+C:\Users\John\Desktop\TestCSharp\TestCSharp\TestCSharp\bin\Debug\TestCSharp.exe.config
+C:\Users\John\Desktop\TestCSharp\TestCSharp\TestCSharp\bin\Debug\TestCSharp.exe
+C:\Users\John\Desktop\TestCSharp\TestCSharp\TestCSharp\bin\Debug\TestCSharp.pdb
+C:\Users\John\Desktop\TestCSharp\TestCSharp\TestCSharp\obj\Debug\TestCSharp.csprojAssemblyReference.cache
+C:\Users\John\Desktop\TestCSharp\TestCSharp\TestCSharp\obj\Debug\TestCSharp.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\TestCSharp\TestCSharp\TestCSharp\obj\Debug\TestCSharp.exe
+C:\Users\John\Desktop\TestCSharp\TestCSharp\TestCSharp\obj\Debug\TestCSharp.pdb
