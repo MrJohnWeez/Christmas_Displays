@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<sequence saveFileVersion="15" id="5125334e-964c-43c3-8053-9289cda287f0" totalCentiseconds="27081" WaveHeight="3" TimingGridIdx="0" DragEventsWithTimings="True" DefaultMotionEffectRows="0" ChaseClearFirst="True" ChaseSameRowType="True" EmbedPictures="False" ChaseType="0" author="John Wiesner" createdAt="11/11/2019 8:27 PM" musicArtist="John Wiesner" musicTitle="2019 Mashup" musicAlbum="Christmas Mashups" NameAreaWidth="160" ZoomWidth="29.795" ZoomHeight="16" musicFilename="D:\Repos\ChristmasLightShows\2019\Music\2019Mashup.mp3" GridView="Show All Items" StartColor="FFFF0000" EndColor="FF00FF00">
-  <PreviewClass id="e59c9908-7180-484e-9c00-0d1fbbd9f47b" BackgroundFile="" Brightness="2" Revision="3" Name="2019_Christmas_Lights">
+<sequence saveFileVersion="15" id="5125334e-964c-43c3-8053-9289cda287f0" totalCentiseconds="27081" WaveHeight="3" TimingGridIdx="0" DragEventsWithTimings="True" DefaultMotionEffectRows="0" ChaseClearFirst="True" ChaseSameRowType="True" EmbedPictures="False" ChaseType="0" author="John Wiesner" createdAt="11/11/2019 8:27 PM" musicArtist="John Wiesner" musicTitle="2019 Mashup" musicAlbum="Christmas Mashups" NameAreaWidth="160" ZoomWidth="39.823" ZoomHeight="16" musicFilename="D:\Repos\ChristmasLightShows\2019\Music\2019Mashup.mp3" GridView="Show All Items" StartColor="FFFF0000" EndColor="FF00FF00">
+  <PreviewClass id="e59c9908-7180-484e-9c00-0d1fbbd9f47b" BackgroundFile="" Brightness="4" Revision="1" Name="2019_Christmas_Lights">
     <PropClass id="edf82c3b-25ba-4c3a-8391-721bba85f476" BulbShape="Square" ChannelGrid="Regular,01,1,1,0,Multi" Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="Yellow,Green,Orange,Red,Blue" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="" Name="01_Roof_Left" Parm1="1" Parm2="100">
       <shape ShapeName="Lines-Connected">
         <point x="-0.995307" y="0.5763544" />
@@ -13,7 +13,7 @@
         <point x="0.3079993" y="0.5274814" />
       </shape>
     </PropClass>
-    <PropClass id="bb39d050-9a1d-4011-a7a9-b192e49b678c" BulbShape="Square" ChannelGrid="Regular,01,3,3,0,Multi" Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="Yellow,Blue,Green,Red,Orange" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="" Name="03_Roof_Right" Parm1="1" Parm2="100">
+    <PropClass id="bb39d050-9a1d-4011-a7a9-b192e49b678c" BulbShape="Square" ChannelGrid="Regular,01,3,3,0,Multi" Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="White,Blue,Yellow,Green,Red,Orange" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="" Name="03_Roof_Right" Parm1="1" Parm2="100">
       <shape ShapeName="Lines-Connected">
         <point x="0.3148518" y="0.5275931" />
         <point x="0.9982357" y="0.5065013" />
@@ -315,18 +315,6 @@
         <effect startCentisecond="3952" endCentisecond="4009" intensity="100" settings="SHIMMER" />
         <effect startCentisecond="4009" endCentisecond="4038" startIntensity="100" endIntensity="0" settings="SHIMMER" />
         <effect startCentisecond="4083" endCentisecond="4149" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="4168" endCentisecond="4211" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="4685" endCentisecond="4767" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="5028" endCentisecond="5071" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="5540" endCentisecond="5622" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="5967" endCentisecond="6061" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="6138" endCentisecond="6224" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="6310" endCentisecond="6403" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="6480" endCentisecond="6603" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="6603" endCentisecond="6638" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="24117" endCentisecond="24121" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24149" endCentisecond="24153" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24182" endCentisecond="24186" intensity="100" settings="INTENSITY" />
       </channel>
     </SeqProp>
     <SeqProp id="d25ae657-3ff8-4250-a994-a0c89d3e7ea2" name="02_Roof_Center" EnablePixelChannels="0">
@@ -346,23 +334,6 @@
         <effect startCentisecond="3952" endCentisecond="4009" intensity="100" settings="SHIMMER" />
         <effect startCentisecond="4009" endCentisecond="4038" startIntensity="100" endIntensity="0" settings="SHIMMER" />
         <effect startCentisecond="4083" endCentisecond="4149" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="4339" endCentisecond="4381" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="4767" endCentisecond="4855" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="4938" endCentisecond="5005" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="5454" endCentisecond="5497" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="5622" endCentisecond="5710" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="5793" endCentisecond="5860" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="5967" endCentisecond="6061" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="6138" endCentisecond="6224" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="6310" endCentisecond="6403" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="6480" endCentisecond="6603" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="6620" endCentisecond="6655" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="24117" endCentisecond="24121" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24125" endCentisecond="24130" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24149" endCentisecond="24153" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24157" endCentisecond="24162" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24182" endCentisecond="24186" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24190" endCentisecond="24195" intensity="100" settings="INTENSITY" />
       </channel>
     </SeqProp>
     <SeqProp id="bb39d050-9a1d-4011-a7a9-b192e49b678c" name="03_Roof_Right" EnablePixelChannels="0">
@@ -381,21 +352,6 @@
         <effect startCentisecond="3952" endCentisecond="4009" intensity="100" settings="SHIMMER" />
         <effect startCentisecond="4009" endCentisecond="4038" startIntensity="100" endIntensity="0" settings="SHIMMER" />
         <effect startCentisecond="4083" endCentisecond="4149" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="4254" endCentisecond="4295" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="4855" endCentisecond="4938" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="5370" endCentisecond="5411" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="5710" endCentisecond="5793" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="5967" endCentisecond="6061" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="6138" endCentisecond="6224" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="6310" endCentisecond="6403" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="6480" endCentisecond="6603" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="6638" endCentisecond="6674" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="24117" endCentisecond="24121" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24130" endCentisecond="24149" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="24149" endCentisecond="24153" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24162" endCentisecond="24182" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="24182" endCentisecond="24186" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24195" endCentisecond="24215" startIntensity="100" endIntensity="0" settings="INTENSITY" />
       </channel>
     </SeqProp>
     <SeqProp id="b46804cf-28f0-44b6-8eea-60c6f757d2a8" name="04_Left_1_Shutter" EnablePixelChannels="0">
@@ -407,11 +363,6 @@
         <effect startCentisecond="2709" endCentisecond="2754" startIntensity="100" endIntensity="0" settings="INTENSITY" />
         <effect startCentisecond="2839" endCentisecond="2860" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="2881" endCentisecond="2924" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="4511" endCentisecond="4554" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="5112" endCentisecond="5155" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24117" endCentisecond="24121" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24149" endCentisecond="24153" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24182" endCentisecond="24186" intensity="100" settings="INTENSITY" />
       </channel>
     </SeqProp>
     <SeqProp id="12d599d0-3449-4f68-95d7-6c236319de99" name="05_Center_1_Window" EnablePixelChannels="0">
@@ -430,12 +381,6 @@
         <effect startCentisecond="2688" endCentisecond="2709" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="2860" endCentisecond="2881" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="2924" endCentisecond="2967" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="4425" endCentisecond="4466" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="5196" endCentisecond="5240" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="5497" endCentisecond="5540" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24121" endCentisecond="24125" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24153" endCentisecond="24157" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24186" endCentisecond="24190" intensity="100" settings="INTENSITY" />
       </channel>
     </SeqProp>
     <SeqProp id="efc0c79c-3d5b-4219-9511-7e496524d6f8" name="06_Right_1_Shutter" EnablePixelChannels="0">
@@ -445,11 +390,6 @@
         <effect startCentisecond="2665" endCentisecond="2688" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="2709" endCentisecond="2754" startIntensity="100" endIntensity="0" settings="INTENSITY" />
         <effect startCentisecond="2967" endCentisecond="3010" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="4295" endCentisecond="4339" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="5282" endCentisecond="5327" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24121" endCentisecond="24125" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24153" endCentisecond="24157" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24186" endCentisecond="24190" intensity="100" settings="INTENSITY" />
       </channel>
     </SeqProp>
     <SeqProp id="eefc8029-a3d8-46e7-a565-b1fb6b7fa72e" name="07_Left_2_Shutter" EnablePixelChannels="0">
@@ -459,10 +399,6 @@
         <effect startCentisecond="2538" endCentisecond="2582" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="3010" endCentisecond="3052" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="3076" endCentisecond="3097" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="5071" endCentisecond="5112" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24121" endCentisecond="24125" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24153" endCentisecond="24157" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24186" endCentisecond="24190" intensity="100" settings="INTENSITY" />
       </channel>
     </SeqProp>
     <SeqProp id="179a70d3-97d4-49e0-b8cf-07fe60882c46" name="08_Center_2_Window" EnablePixelChannels="0">
@@ -482,9 +418,6 @@
         <effect startCentisecond="3052" endCentisecond="3076" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="3097" endCentisecond="3138" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="3161" endCentisecond="3183" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24121" endCentisecond="24125" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24153" endCentisecond="24157" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24186" endCentisecond="24190" intensity="100" settings="INTENSITY" />
       </channel>
     </SeqProp>
     <SeqProp id="bd15ba79-6fbf-4819-9e5f-44afda0ad2c0" name="09_Right_2_Shutter" EnablePixelChannels="0">
@@ -495,20 +428,9 @@
         <effect startCentisecond="2366" endCentisecond="2412" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="3138" endCentisecond="3161" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="3183" endCentisecond="3224" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="4381" endCentisecond="4425" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="5155" endCentisecond="5196" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24121" endCentisecond="24125" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24153" endCentisecond="24157" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24186" endCentisecond="24190" intensity="100" settings="INTENSITY" />
       </channel>
     </SeqProp>
-    <SeqProp id="4553823e-9e59-4093-90fb-d3a12264b889" name="10_Door" EnablePixelChannels="0">
-      <channel row="0" col="0" color="0">
-        <effect startCentisecond="24125" endCentisecond="24130" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24157" endCentisecond="24162" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24190" endCentisecond="24195" intensity="100" settings="INTENSITY" />
-      </channel>
-    </SeqProp>
+    <SeqProp id="4553823e-9e59-4093-90fb-d3a12264b889" name="10_Door" EnablePixelChannels="0" />
     <SeqProp id="bb10d39c-9959-4120-b4dd-5ee979c92295" name="11_Left_3_Shutter" EnablePixelChannels="0">
       <channel row="0" col="0" color="0">
         <effect startCentisecond="1876" endCentisecond="1897" intensity="100" settings="INTENSITY" />
@@ -520,12 +442,6 @@
         <effect startCentisecond="3248" endCentisecond="3268" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="3311" endCentisecond="3332" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="3353" endCentisecond="3375" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="4211" endCentisecond="4254" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="5240" endCentisecond="5282" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="5880" endCentisecond="5967" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="24125" endCentisecond="24130" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24157" endCentisecond="24162" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24190" endCentisecond="24195" intensity="100" settings="INTENSITY" />
       </channel>
     </SeqProp>
     <SeqProp id="dac367f6-96d7-4cf1-83f3-e5034036cc21" name="12_Center_3_Window" EnablePixelChannels="0">
@@ -548,21 +464,12 @@
         <effect startCentisecond="3268" endCentisecond="3311" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="3332" endCentisecond="3353" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="3375" endCentisecond="3395" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="5880" endCentisecond="5967" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="24125" endCentisecond="24130" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24157" endCentisecond="24162" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24190" endCentisecond="24195" intensity="100" settings="INTENSITY" />
       </channel>
     </SeqProp>
     <SeqProp id="67b3e51e-9635-4113-bba2-8926e5564d9a" name="13_Right_3_Shutter" EnablePixelChannels="0">
       <channel row="0" col="0" color="0">
         <effect startCentisecond="2024" endCentisecond="2072" startIntensity="100" endIntensity="0" settings="INTENSITY" />
         <effect startCentisecond="3395" endCentisecond="3440" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="4554" endCentisecond="4596" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="5880" endCentisecond="5967" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="24130" endCentisecond="24149" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="24162" endCentisecond="24182" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="24195" endCentisecond="24215" startIntensity="100" endIntensity="0" settings="INTENSITY" />
       </channel>
     </SeqProp>
     <SeqProp id="1f75cdc6-1ec7-421a-bb42-78bd1c4f4340" name="14_Tree" EnablePixelChannels="0">
@@ -570,11 +477,6 @@
         <effect startCentisecond="2412" endCentisecond="2453" startIntensity="30" endIntensity="0" settings="INTENSITY" />
         <effect startCentisecond="2496" endCentisecond="2538" startIntensity="60" endIntensity="0" settings="INTENSITY" />
         <effect startCentisecond="2582" endCentisecond="2623" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="4466" endCentisecond="4511" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="5411" endCentisecond="5454" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24121" endCentisecond="24125" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24153" endCentisecond="24157" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24186" endCentisecond="24190" intensity="100" settings="INTENSITY" />
       </channel>
     </SeqProp>
     <SeqProp id="ad9bc37f-c957-4bf7-8b52-2fd0ad588d89" name="16_Brick_Rail" EnablePixelChannels="0">
@@ -591,25 +493,6 @@
         <effect startCentisecond="3053" endCentisecond="3098" startIntensity="100" endIntensity="0" settings="INTENSITY" />
         <effect startCentisecond="3223" endCentisecond="3268" startIntensity="100" endIntensity="0" settings="INTENSITY" />
         <effect startCentisecond="3395" endCentisecond="3441" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="4168" endCentisecond="4211" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="4211" endCentisecond="4254" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="4254" endCentisecond="4295" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="4295" endCentisecond="4339" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="4339" endCentisecond="4381" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="4381" endCentisecond="4425" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="4425" endCentisecond="4466" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="4466" endCentisecond="4511" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="4511" endCentisecond="4554" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="4554" endCentisecond="4596" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="4596" endCentisecond="4639" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="4639" endCentisecond="4685" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="4767" endCentisecond="4830" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="4938" endCentisecond="5005" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="5606" endCentisecond="5669" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="5779" endCentisecond="5841" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="24121" endCentisecond="24125" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24153" endCentisecond="24157" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24186" endCentisecond="24190" intensity="100" settings="INTENSITY" />
       </channel>
     </SeqProp>
     <SeqProp id="a8f1ae79-bb18-4faa-8bec-f57dde1c7312" name="15_Gradge" EnablePixelChannels="0">
@@ -622,11 +505,6 @@
         <effect startCentisecond="975" endCentisecond="1037" startIntensity="100" endIntensity="0" settings="INTENSITY" />
         <effect startCentisecond="1146" endCentisecond="1213" startIntensity="100" endIntensity="0" settings="INTENSITY" />
         <effect startCentisecond="1318" endCentisecond="1377" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="4596" endCentisecond="4639" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="5327" endCentisecond="5370" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="24130" endCentisecond="24149" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="24162" endCentisecond="24182" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="24195" endCentisecond="24215" startIntensity="100" endIntensity="0" settings="INTENSITY" />
       </channel>
     </SeqProp>
   </SequenceProps>
@@ -752,66 +630,6 @@
       <timing centisecond="4038" />
       <timing centisecond="4083" />
       <timing centisecond="4149" />
-      <timing centisecond="4168" />
-      <timing centisecond="4211" />
-      <timing centisecond="4254" />
-      <timing centisecond="4295" />
-      <timing centisecond="4339" />
-      <timing centisecond="4381" />
-      <timing centisecond="4425" />
-      <timing centisecond="4466" />
-      <timing centisecond="4511" />
-      <timing centisecond="4554" />
-      <timing centisecond="4596" />
-      <timing centisecond="4639" />
-      <timing centisecond="4685" />
-      <timing centisecond="4767" />
-      <timing centisecond="4855" />
-      <timing centisecond="4938" />
-      <timing centisecond="5005" />
-      <timing centisecond="5028" />
-      <timing centisecond="5071" />
-      <timing centisecond="5112" />
-      <timing centisecond="5155" />
-      <timing centisecond="5196" />
-      <timing centisecond="5240" />
-      <timing centisecond="5282" />
-      <timing centisecond="5327" />
-      <timing centisecond="5370" />
-      <timing centisecond="5411" />
-      <timing centisecond="5454" />
-      <timing centisecond="5497" />
-      <timing centisecond="5540" />
-      <timing centisecond="5606" />
-      <timing centisecond="5669" />
-      <timing centisecond="5779" />
-      <timing centisecond="5841" />
-      <timing centisecond="5880" />
-      <timing centisecond="5967" />
-      <timing centisecond="6061" />
-      <timing centisecond="6138" />
-      <timing centisecond="6224" />
-      <timing centisecond="6310" />
-      <timing centisecond="6403" />
-      <timing centisecond="6480" />
-      <timing centisecond="6603" />
-      <timing centisecond="6620" />
-      <timing centisecond="6638" />
-      <timing centisecond="6655" />
-      <timing centisecond="6674" />
-      <timing centisecond="24117" />
-      <timing centisecond="24121" />
-      <timing centisecond="24125" />
-      <timing centisecond="24130" />
-      <timing centisecond="24149" />
-      <timing centisecond="24153" />
-      <timing centisecond="24157" />
-      <timing centisecond="24162" />
-      <timing centisecond="24182" />
-      <timing centisecond="24186" />
-      <timing centisecond="24190" />
-      <timing centisecond="24195" />
-      <timing centisecond="24215" />
     </TimingGridFree>
   </TimingGrids>
   <BeatView />

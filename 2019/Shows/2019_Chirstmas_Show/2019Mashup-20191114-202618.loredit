@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<sequence saveFileVersion="15" id="5125334e-964c-43c3-8053-9289cda287f0" totalCentiseconds="27081" WaveHeight="3" TimingGridIdx="0" DragEventsWithTimings="True" DefaultMotionEffectRows="0" ChaseClearFirst="True" ChaseSameRowType="True" EmbedPictures="False" ChaseType="0" author="John Wiesner" createdAt="11/11/2019 8:27 PM" musicArtist="John Wiesner" musicTitle="2019 Mashup" musicAlbum="Christmas Mashups" NameAreaWidth="160" ZoomWidth="29.795" ZoomHeight="16" musicFilename="D:\Repos\ChristmasLightShows\2019\Music\2019Mashup.mp3" GridView="Show All Items" StartColor="FFFF0000" EndColor="FF00FF00">
-  <PreviewClass id="e59c9908-7180-484e-9c00-0d1fbbd9f47b" BackgroundFile="" Brightness="2" Revision="3" Name="2019_Christmas_Lights">
+<sequence saveFileVersion="15" id="5125334e-964c-43c3-8053-9289cda287f0" totalCentiseconds="27081" WaveHeight="3" TimingGridIdx="0" DragEventsWithTimings="True" DefaultMotionEffectRows="0" ChaseClearFirst="True" ChaseSameRowType="True" EmbedPictures="False" ChaseType="0" author="John Wiesner" createdAt="11/11/2019 8:27 PM" musicArtist="John Wiesner" musicTitle="2019 Mashup" musicAlbum="Christmas Mashups" NameAreaWidth="160" ZoomWidth="7.758" ZoomHeight="16" musicFilename="D:\Repos\ChristmasLightShows\2019\Music\2019Mashup.mp3" GridView="Show All Items" StartColor="FFFF0000" EndColor="FF00FF00">
+  <PreviewClass id="e59c9908-7180-484e-9c00-0d1fbbd9f47b" BackgroundFile="" Brightness="4" Revision="1" Name="2019_Christmas_Lights">
     <PropClass id="edf82c3b-25ba-4c3a-8391-721bba85f476" BulbShape="Square" ChannelGrid="Regular,01,1,1,0,Multi" Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="Yellow,Green,Orange,Red,Blue" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="" Name="01_Roof_Left" Parm1="1" Parm2="100">
       <shape ShapeName="Lines-Connected">
         <point x="-0.995307" y="0.5763544" />
@@ -13,7 +13,7 @@
         <point x="0.3079993" y="0.5274814" />
       </shape>
     </PropClass>
-    <PropClass id="bb39d050-9a1d-4011-a7a9-b192e49b678c" BulbShape="Square" ChannelGrid="Regular,01,3,3,0,Multi" Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="Yellow,Blue,Green,Red,Orange" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="" Name="03_Roof_Right" Parm1="1" Parm2="100">
+    <PropClass id="bb39d050-9a1d-4011-a7a9-b192e49b678c" BulbShape="Square" ChannelGrid="Regular,01,3,3,0,Multi" Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="White,Blue,Yellow,Green,Red,Orange" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="" Name="03_Roof_Right" Parm1="1" Parm2="100">
       <shape ShapeName="Lines-Connected">
         <point x="0.3148518" y="0.5275931" />
         <point x="0.9982357" y="0.5065013" />
@@ -323,7 +323,6 @@
         <effect startCentisecond="6138" endCentisecond="6224" startIntensity="100" endIntensity="0" settings="INTENSITY" />
         <effect startCentisecond="6310" endCentisecond="6403" startIntensity="100" endIntensity="0" settings="INTENSITY" />
         <effect startCentisecond="6480" endCentisecond="6603" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="6603" endCentisecond="6638" startIntensity="100" endIntensity="0" settings="INTENSITY" />
         <effect startCentisecond="24117" endCentisecond="24121" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="24149" endCentisecond="24153" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="24182" endCentisecond="24186" intensity="100" settings="INTENSITY" />
@@ -356,7 +355,6 @@
         <effect startCentisecond="6138" endCentisecond="6224" startIntensity="100" endIntensity="0" settings="INTENSITY" />
         <effect startCentisecond="6310" endCentisecond="6403" startIntensity="100" endIntensity="0" settings="INTENSITY" />
         <effect startCentisecond="6480" endCentisecond="6603" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="6620" endCentisecond="6655" startIntensity="100" endIntensity="0" settings="INTENSITY" />
         <effect startCentisecond="24117" endCentisecond="24121" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="24125" endCentisecond="24130" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="24149" endCentisecond="24153" intensity="100" settings="INTENSITY" />
@@ -389,7 +387,6 @@
         <effect startCentisecond="6138" endCentisecond="6224" startIntensity="100" endIntensity="0" settings="INTENSITY" />
         <effect startCentisecond="6310" endCentisecond="6403" startIntensity="100" endIntensity="0" settings="INTENSITY" />
         <effect startCentisecond="6480" endCentisecond="6603" startIntensity="100" endIntensity="0" settings="INTENSITY" />
-        <effect startCentisecond="6638" endCentisecond="6674" startIntensity="100" endIntensity="0" settings="INTENSITY" />
         <effect startCentisecond="24117" endCentisecond="24121" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="24130" endCentisecond="24149" startIntensity="100" endIntensity="0" settings="INTENSITY" />
         <effect startCentisecond="24149" endCentisecond="24153" intensity="100" settings="INTENSITY" />
@@ -795,10 +792,6 @@
       <timing centisecond="6403" />
       <timing centisecond="6480" />
       <timing centisecond="6603" />
-      <timing centisecond="6620" />
-      <timing centisecond="6638" />
-      <timing centisecond="6655" />
-      <timing centisecond="6674" />
       <timing centisecond="24117" />
       <timing centisecond="24121" />
       <timing centisecond="24125" />
