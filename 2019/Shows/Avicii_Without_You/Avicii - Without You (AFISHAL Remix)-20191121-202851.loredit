@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<sequence saveFileVersion="15" id="95aba9aa-9fc5-4dbc-b973-16ce08a9ed3e" totalCentiseconds="18690" WaveHeight="3" TimingGridIdx="1" DragEventsWithTimings="True" DefaultMotionEffectRows="0" ChaseClearFirst="True" ChaseSameRowType="True" EmbedPictures="False" ChaseType="0" author="John Wiesner" createdAt="11/18/2019 7:07 PM" musicTitle="Avicii - Without You (AFISHAL Remix)" NameAreaWidth="160" ZoomWidth="31.166" ZoomHeight="22" musicFilename="D:\Repos\ChristmasLightShows\2019\Music\Avicii - Without You (AFISHAL Remix).mp3" GridView="Show All Items" StartColor="FFFF0000" EndColor="FF00FF00">
+<sequence saveFileVersion="15" id="95aba9aa-9fc5-4dbc-b973-16ce08a9ed3e" totalCentiseconds="18690" WaveHeight="3" TimingGridIdx="0" DragEventsWithTimings="True" DefaultMotionEffectRows="0" ChaseClearFirst="True" ChaseSameRowType="True" EmbedPictures="False" ChaseType="0" author="John Wiesner" createdAt="11/18/2019 7:07 PM" musicTitle="Avicii - Without You (AFISHAL Remix)" NameAreaWidth="160" ZoomWidth="70.413" ZoomHeight="22" musicFilename="D:\Repos\ChristmasLightShows\2019\Music\Avicii - Without You (AFISHAL Remix).mp3" GridView="Show All Items" StartColor="FFFF0000" EndColor="FF00FF00">
   <PreviewClass id="e59c9908-7180-484e-9c00-0d1fbbd9f47b" BackgroundFile="" Brightness="0" Revision="3" Name="2019_Christmas_Lights">
     <PropClass id="edf82c3b-25ba-4c3a-8391-721bba85f476" BulbShape="Square" ChannelGrid="Regular,01,1,1,0,Multi" Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="Yellow,Green,Orange,Red,Blue" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="" Name="01_Roof_Left" Parm1="1" Parm2="100">
       <shape ShapeName="Lines-Connected">
@@ -2313,9 +2313,6 @@
       <timing centisecond="18504" />
       <timing centisecond="18533" />
       <timing centisecond="18682" />
-    </TimingGridFree>
-    <TimingGridFree name="None">
-      <timing centisecond="0" />
     </TimingGridFree>
   </TimingGrids>
   <BeatView />
