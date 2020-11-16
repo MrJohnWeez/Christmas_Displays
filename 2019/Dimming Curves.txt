@@ -1,0 +1,10 @@
+Normal mini lights ........... standard
+Mini Led ..................... Standard
+Multi led weird.................... LED curve or standard? (flickers) Polecheck
+While led .................... LED curve
+Blue rope .................... Standard
+Long old white ............... LED curve
+Long blue and white .......... LED curve
+multi LED normal ............. LED curve
+
+
