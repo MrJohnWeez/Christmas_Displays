@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<sequence saveFileVersion="15" id="97ab417d-4af9-474e-bc7b-89f3169ef24b" totalCentiseconds="26812" WaveHeight="3" TimingGridIdx="2" DragEventsWithTimings="True" DefaultMotionEffectRows="0" ChaseClearFirst="True" ChaseSameRowType="True" ChaseType="0" author="John Wiesner" createdAt="11/24/2020 9:10 PM" musicTitle="Christmas_Music_2020" NameAreaWidth="198" ZoomWidth="12.246" ZoomHeight="36" musicFilename="D:\Repos\ChristmasLightShows\2020\Music\Christmas_Music_2020\Christmas_Music_2020.mp3" GridView="Show All Items" StartColor="FFFF0000" EndColor="FF00FF00">
+<sequence saveFileVersion="15" id="97ab417d-4af9-474e-bc7b-89f3169ef24b" totalCentiseconds="26812" WaveHeight="3" TimingGridIdx="0" DragEventsWithTimings="True" DefaultMotionEffectRows="0" ChaseClearFirst="True" ChaseSameRowType="True" ChaseType="0" author="John Wiesner" createdAt="11/24/2020 9:10 PM" musicTitle="Christmas_Music_2020" NameAreaWidth="198" ZoomWidth="98.131" ZoomHeight="36" musicFilename="D:\Repos\ChristmasLightShows\2020\Music\Christmas_Music_2020\Christmas_Music_2020.mp3" GridView="Show All Items" StartColor="FFFF0000" EndColor="FF00FF00">
   <PreviewClass id="4c10812d-7de5-4c55-800c-3175af7cede0" BackgroundFile="D:\Repos\ChristmasLightShows\2020\Shows\Background.jpg" Brightness="1" Revision="16" Name="2020_Christmas_Lights">
     <PropClass id="0d77b294-b91a-48ce-8e64-b5956595c4dc" BulbShape="Square" ChannelGrid="Regular,01,1,1,0,Multi" Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="Green,Red,Yellow,Blue" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="" Name="01_Multi_Roof" Parm1="1" Parm2="200">
       <shape ShapeName="Lines-Connected">
@@ -485,7 +485,46 @@
   </PreviewClass>
   <BeatChannels MaxDisplayedRows="10" />
   <SequenceProps>
-    <SeqProp id="0d77b294-b91a-48ce-8e64-b5956595c4dc" name="01_Multi_Roof" EnablePixelChannels="0" OverlayMotionRows="1" />
+    <SeqProp id="0d77b294-b91a-48ce-8e64-b5956595c4dc" name="01_Multi_Roof" EnablePixelChannels="0" OverlayMotionRows="1">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="11247" endCentisecond="11291" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="11291" endCentisecond="11361" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="11516" endCentisecond="11559" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="11559" endCentisecond="11620" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="13541" endCentisecond="13584" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="13584" endCentisecond="13640" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="13806" endCentisecond="13848" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="13848" endCentisecond="13907" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="15563" endCentisecond="15597" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15597" endCentisecond="15700" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15700" endCentisecond="15707" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="17993" endCentisecond="18035" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18035" endCentisecond="18101" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18219" endCentisecond="18262" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18262" endCentisecond="18291" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21265" endCentisecond="21440" startIntensity="66" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21440" endCentisecond="21620" startIntensity="66" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21620" endCentisecond="21795" startIntensity="66" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21795" endCentisecond="21975" startIntensity="66" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21975" endCentisecond="22155" startIntensity="66" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22155" endCentisecond="22330" startIntensity="66" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22330" endCentisecond="22510" startIntensity="66" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22510" endCentisecond="22680" startIntensity="66" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22680" endCentisecond="22865" startIntensity="66" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22865" endCentisecond="23045" startIntensity="66" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23045" endCentisecond="23225" startIntensity="66" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23225" endCentisecond="23410" startIntensity="66" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23410" endCentisecond="23580" startIntensity="66" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23580" endCentisecond="23755" startIntensity="66" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23755" endCentisecond="23935" startIntensity="66" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24019" endCentisecond="24310" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24310" endCentisecond="24375" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="24375" endCentisecond="24665" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24665" endCentisecond="25003" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25003" endCentisecond="25074" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="26485" endCentisecond="26780" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+      </channel>
+    </SeqProp>
     <SeqProp id="8cbcc01e-a986-4c60-8f3f-4c4ba215fd94" name="02_White_Roof" EnablePixelChannels="0" OverlayMotionRows="1">
       <channel row="0" col="0" color="0">
         <effect startCentisecond="5865" endCentisecond="5938" startIntensity="0" endIntensity="100" settings="INTENSITY" />
@@ -494,6 +533,17 @@
         <effect startCentisecond="6712" endCentisecond="6810" startIntensity="0" endIntensity="100" settings="INTENSITY" />
         <effect startCentisecond="6810" endCentisecond="7016" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="7016" endCentisecond="7140" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="7675" endCentisecond="7789" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="7789" endCentisecond="7915" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="7915" endCentisecond="8025" intensity="70" settings="INTENSITY" />
+        <effect startCentisecond="8025" endCentisecond="8115" intensity="40" settings="INTENSITY" />
+        <effect startCentisecond="8115" endCentisecond="8143" startIntensity="40" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9065" endCentisecond="9815" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="15563" endCentisecond="15595" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15595" endCentisecond="15699" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15699" endCentisecond="15707" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21070" endCentisecond="21160" startIntensity="66" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="26485" endCentisecond="26780" startIntensity="100" endIntensity="0" settings="INTENSITY" />
       </channel>
     </SeqProp>
     <SeqProp id="10117a77-85b8-4879-aced-3a7262010c95" name="06_Large_Window" EnablePixelChannels="0" OverlayMotionRows="1">
@@ -502,6 +552,48 @@
         <effect startCentisecond="5669" endCentisecond="5715" startIntensity="100" endIntensity="0" settings="INTENSITY" />
         <effect startCentisecond="6516" endCentisecond="6570" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="6570" endCentisecond="6630" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="7432" endCentisecond="7502" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="7502" endCentisecond="7542" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19723" endCentisecond="19810" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19861" endCentisecond="19884" startIntensity="0" endIntensity="66" settings="INTENSITY" />
+        <effect startCentisecond="19884" endCentisecond="19904" startIntensity="66" endIntensity="33" settings="INTENSITY" />
+        <effect startCentisecond="19904" endCentisecond="19924" startIntensity="33" endIntensity="66" settings="INTENSITY" />
+        <effect startCentisecond="19924" endCentisecond="19949" startIntensity="66" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19949" endCentisecond="19994" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19994" endCentisecond="20069" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20069" endCentisecond="20107" startIntensity="100" endIntensity="66" settings="INTENSITY" />
+        <effect startCentisecond="20107" endCentisecond="20160" startIntensity="66" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20221" endCentisecond="20244" startIntensity="0" endIntensity="66" settings="INTENSITY" />
+        <effect startCentisecond="20244" endCentisecond="20264" startIntensity="66" endIntensity="33" settings="INTENSITY" />
+        <effect startCentisecond="20264" endCentisecond="20284" startIntensity="33" endIntensity="66" settings="INTENSITY" />
+        <effect startCentisecond="20284" endCentisecond="20309" startIntensity="66" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20309" endCentisecond="20354" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20354" endCentisecond="20429" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20429" endCentisecond="20467" startIntensity="100" endIntensity="66" settings="INTENSITY" />
+        <effect startCentisecond="20467" endCentisecond="20520" startIntensity="66" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20579" endCentisecond="20602" startIntensity="0" endIntensity="66" settings="INTENSITY" />
+        <effect startCentisecond="20602" endCentisecond="20622" startIntensity="66" endIntensity="33" settings="INTENSITY" />
+        <effect startCentisecond="20622" endCentisecond="20642" startIntensity="33" endIntensity="66" settings="INTENSITY" />
+        <effect startCentisecond="20642" endCentisecond="20667" startIntensity="66" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20667" endCentisecond="20712" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20712" endCentisecond="20787" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20787" endCentisecond="20825" startIntensity="100" endIntensity="66" settings="INTENSITY" />
+        <effect startCentisecond="20825" endCentisecond="20878" startIntensity="66" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20938" endCentisecond="20961" startIntensity="0" endIntensity="66" settings="INTENSITY" />
+        <effect startCentisecond="20961" endCentisecond="20981" startIntensity="66" endIntensity="33" settings="INTENSITY" />
+        <effect startCentisecond="20981" endCentisecond="21001" startIntensity="33" endIntensity="66" settings="INTENSITY" />
+        <effect startCentisecond="21001" endCentisecond="21026" startIntensity="66" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="21026" endCentisecond="21071" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21071" endCentisecond="21112" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="21112" endCentisecond="21140" startIntensity="100" endIntensity="66" settings="INTENSITY" />
+        <effect startCentisecond="21140" endCentisecond="21158" startIntensity="66" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23957" endCentisecond="23981" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="24019" endCentisecond="24310" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24310" endCentisecond="24375" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="24375" endCentisecond="24665" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24665" endCentisecond="25003" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25003" endCentisecond="25074" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="26485" endCentisecond="26780" startIntensity="100" endIntensity="0" settings="INTENSITY" />
       </channel>
     </SeqProp>
     <SeqProp id="4fcf44cc-6f11-4711-8792-cc08bb563992" name="05_Door" EnablePixelChannels="0" OverlayMotionRows="1">
@@ -512,16 +604,247 @@
         <effect startCentisecond="6462" endCentisecond="6491" startIntensity="100" endIntensity="0" settings="INTENSITY" />
         <effect startCentisecond="6491" endCentisecond="6516" startIntensity="100" endIntensity="0" settings="INTENSITY" />
         <effect startCentisecond="6591" endCentisecond="6630" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="7371" endCentisecond="7393" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="7393" endCentisecond="7432" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="7510" endCentisecond="7542" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="26485" endCentisecond="26780" startIntensity="100" endIntensity="0" settings="INTENSITY" />
       </channel>
     </SeqProp>
     <SeqProp id="b191af61-4841-4792-89f5-ecced5495276" name="09_Grass" EnablePixelChannels="0" OverlayMotionRows="1">
       <channel row="0" col="0" color="0">
         <effect startCentisecond="6960" endCentisecond="7020" startIntensity="0" endIntensity="100" settings="INTENSITY" />
         <effect startCentisecond="7020" endCentisecond="7140" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="8329" endCentisecond="8600" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="21250" endCentisecond="21315" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21315" endCentisecond="21356" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21356" endCentisecond="21427" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21427" endCentisecond="21496" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21606" endCentisecond="21671" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21671" endCentisecond="21717" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21717" endCentisecond="21787" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21787" endCentisecond="21851" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21963" endCentisecond="22032" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22032" endCentisecond="22075" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22075" endCentisecond="22144" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22144" endCentisecond="22215" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22324" endCentisecond="22389" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22389" endCentisecond="22432" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22432" endCentisecond="22503" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22503" endCentisecond="22596" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22681" endCentisecond="22749" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22749" endCentisecond="22786" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22786" endCentisecond="22862" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22862" endCentisecond="22947" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23041" endCentisecond="23107" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23107" endCentisecond="23153" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23153" endCentisecond="23222" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23222" endCentisecond="23286" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23403" endCentisecond="23465" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23465" endCentisecond="23508" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23508" endCentisecond="23578" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23578" endCentisecond="23647" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23757" endCentisecond="23821" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23821" endCentisecond="23867" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23867" endCentisecond="23938" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23938" endCentisecond="24022" startIntensity="100" endIntensity="9" settings="INTENSITY" />
+        <effect startCentisecond="26485" endCentisecond="26780" startIntensity="100" endIntensity="0" settings="INTENSITY" />
       </channel>
     </SeqProp>
-    <SeqProp id="45af74ba-f8f4-46c4-84cc-289225bb30bb" name="04_Window_R" EnablePixelChannels="0" OverlayMotionRows="1" />
-    <SeqProp id="6735049c-7879-45ec-953a-e3a85b43dc2b" name="03_Window_L" EnablePixelChannels="0" OverlayMotionRows="1" />
+    <SeqProp id="45af74ba-f8f4-46c4-84cc-289225bb30bb" name="04_Window_R" EnablePixelChannels="0" OverlayMotionRows="1">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="7168" endCentisecond="7188" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="9290" endCentisecond="9815" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="11687" endCentisecond="11733" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="11823" endCentisecond="11868" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="11999" endCentisecond="12042" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="12130" endCentisecond="12178" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="12220" endCentisecond="12363" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="12402" endCentisecond="12455" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="12455" endCentisecond="12528" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="12571" endCentisecond="12615" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="12715" endCentisecond="12752" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="12797" endCentisecond="12847" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="12879" endCentisecond="12930" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="12940" endCentisecond="12950" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="12975" endCentisecond="13065" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13105" endCentisecond="13130" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13150" endCentisecond="13195" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13215" endCentisecond="13244" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14489" endCentisecond="14555" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14555" endCentisecond="14646" intensity="80" settings="INTENSITY" />
+        <effect startCentisecond="14646" endCentisecond="14729" intensity="60" settings="INTENSITY" />
+        <effect startCentisecond="14729" endCentisecond="14777" intensity="80" settings="INTENSITY" />
+        <effect startCentisecond="14777" endCentisecond="14843" intensity="60" settings="INTENSITY" />
+        <effect startCentisecond="14843" endCentisecond="14907" intensity="80" settings="INTENSITY" />
+        <effect startCentisecond="14907" endCentisecond="14951" intensity="60" settings="INTENSITY" />
+        <effect startCentisecond="14996" endCentisecond="15090" intensity="60" settings="INTENSITY" />
+        <effect startCentisecond="15090" endCentisecond="15130" intensity="80" settings="INTENSITY" />
+        <effect startCentisecond="15130" endCentisecond="15239" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15239" endCentisecond="15259" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="15305" endCentisecond="15347" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15347" endCentisecond="15399" intensity="80" settings="INTENSITY" />
+        <effect startCentisecond="15399" endCentisecond="15419" intensity="60" settings="INTENSITY" />
+        <effect startCentisecond="15419" endCentisecond="15463" intensity="80" settings="INTENSITY" />
+        <effect startCentisecond="15463" endCentisecond="15485" intensity="60" settings="INTENSITY" />
+        <effect startCentisecond="15485" endCentisecond="15524" intensity="40" settings="INTENSITY" />
+        <effect startCentisecond="15524" endCentisecond="15534" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15534" endCentisecond="15563" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18383" endCentisecond="18448" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18448" endCentisecond="18489" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18489" endCentisecond="18560" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18560" endCentisecond="18629" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18739" endCentisecond="18804" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18804" endCentisecond="18850" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18850" endCentisecond="18920" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18920" endCentisecond="18984" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19096" endCentisecond="19165" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19165" endCentisecond="19208" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19208" endCentisecond="19277" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19277" endCentisecond="19348" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19457" endCentisecond="19522" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19522" endCentisecond="19565" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19565" endCentisecond="19636" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19636" endCentisecond="19729" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19814" endCentisecond="19882" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19882" endCentisecond="19919" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19919" endCentisecond="19995" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19995" endCentisecond="20080" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20174" endCentisecond="20240" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20240" endCentisecond="20286" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20286" endCentisecond="20355" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20355" endCentisecond="20419" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20536" endCentisecond="20598" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20598" endCentisecond="20641" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20641" endCentisecond="20711" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20711" endCentisecond="20780" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20890" endCentisecond="20954" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20954" endCentisecond="21000" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21000" endCentisecond="21071" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21071" endCentisecond="21163" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21178" endCentisecond="21296" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="21345" endCentisecond="21435" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="21475" endCentisecond="21515" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="21540" endCentisecond="21565" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="21610" endCentisecond="21785" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21965" endCentisecond="22020" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="22060" endCentisecond="22105" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="22145" endCentisecond="22195" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="22235" endCentisecond="22260" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="22280" endCentisecond="22325" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="22500" endCentisecond="22550" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="22595" endCentisecond="22860" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22860" endCentisecond="22910" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="22955" endCentisecond="23220" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23220" endCentisecond="23265" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="23310" endCentisecond="23575" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23575" endCentisecond="23620" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="23665" endCentisecond="23930" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23930" endCentisecond="23957" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="23981" endCentisecond="24019" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="24019" endCentisecond="24310" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24310" endCentisecond="24375" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="24375" endCentisecond="24665" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24665" endCentisecond="25003" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25003" endCentisecond="25074" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="26485" endCentisecond="26780" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="6735049c-7879-45ec-953a-e3a85b43dc2b" name="03_Window_L" EnablePixelChannels="0" OverlayMotionRows="1">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="7143" endCentisecond="7168" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="7188" endCentisecond="7343" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9144" endCentisecond="9456" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9815" endCentisecond="9860" intensity="50" settings="INTENSITY" />
+        <effect startCentisecond="9860" endCentisecond="9917" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="9917" endCentisecond="9980" intensity="50" settings="INTENSITY" />
+        <effect startCentisecond="10095" endCentisecond="10205" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="10205" endCentisecond="10378" intensity="50" settings="INTENSITY" />
+        <effect startCentisecond="10378" endCentisecond="10440" startIntensity="50" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="11646" endCentisecond="11687" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="11733" endCentisecond="11823" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="11868" endCentisecond="11941" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="11941" endCentisecond="11999" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="12042" endCentisecond="12130" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="12178" endCentisecond="12220" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="12363" endCentisecond="12402" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="12528" endCentisecond="12571" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="12615" endCentisecond="12665" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="12665" endCentisecond="12715" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="12752" endCentisecond="12797" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="12847" endCentisecond="12879" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="12930" endCentisecond="12940" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="12950" endCentisecond="12975" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13065" endCentisecond="13105" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13130" endCentisecond="13150" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13195" endCentisecond="13215" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13244" endCentisecond="13282" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13282" endCentisecond="13308" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="14489" endCentisecond="14555" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14555" endCentisecond="14646" intensity="80" settings="INTENSITY" />
+        <effect startCentisecond="14646" endCentisecond="14729" intensity="60" settings="INTENSITY" />
+        <effect startCentisecond="14729" endCentisecond="14777" intensity="80" settings="INTENSITY" />
+        <effect startCentisecond="14777" endCentisecond="14843" intensity="60" settings="INTENSITY" />
+        <effect startCentisecond="14843" endCentisecond="14907" intensity="80" settings="INTENSITY" />
+        <effect startCentisecond="14907" endCentisecond="14951" intensity="60" settings="INTENSITY" />
+        <effect startCentisecond="14996" endCentisecond="15090" intensity="60" settings="INTENSITY" />
+        <effect startCentisecond="15090" endCentisecond="15130" intensity="80" settings="INTENSITY" />
+        <effect startCentisecond="15130" endCentisecond="15239" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15239" endCentisecond="15259" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="15305" endCentisecond="15347" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15347" endCentisecond="15399" intensity="80" settings="INTENSITY" />
+        <effect startCentisecond="15399" endCentisecond="15419" intensity="60" settings="INTENSITY" />
+        <effect startCentisecond="15419" endCentisecond="15463" intensity="80" settings="INTENSITY" />
+        <effect startCentisecond="15463" endCentisecond="15485" intensity="60" settings="INTENSITY" />
+        <effect startCentisecond="15485" endCentisecond="15524" intensity="40" settings="INTENSITY" />
+        <effect startCentisecond="15524" endCentisecond="15534" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15534" endCentisecond="15563" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18291" endCentisecond="18383" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18519" endCentisecond="18560" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18629" endCentisecond="18655" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18655" endCentisecond="18739" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18880" endCentisecond="18920" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18984" endCentisecond="19014" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19014" endCentisecond="19096" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19240" endCentisecond="19277" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19348" endCentisecond="19375" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19375" endCentisecond="19457" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19598" endCentisecond="19636" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19706" endCentisecond="19729" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19729" endCentisecond="19814" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19951" endCentisecond="19995" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20065" endCentisecond="20093" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20093" endCentisecond="20174" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20313" endCentisecond="20355" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20419" endCentisecond="20442" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20442" endCentisecond="20536" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20669" endCentisecond="20711" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20780" endCentisecond="20806" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20806" endCentisecond="20890" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21025" endCentisecond="21071" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21296" endCentisecond="21345" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="21435" endCentisecond="21475" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="21515" endCentisecond="21540" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="21565" endCentisecond="21610" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="21925" endCentisecond="21965" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="22020" endCentisecond="22060" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="22105" endCentisecond="22145" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="22195" endCentisecond="22235" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="22260" endCentisecond="22280" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="22325" endCentisecond="22500" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22550" endCentisecond="22595" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="22910" endCentisecond="22955" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="23265" endCentisecond="23310" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="23620" endCentisecond="23665" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="23930" endCentisecond="23957" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="23981" endCentisecond="24019" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="24019" endCentisecond="24310" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24310" endCentisecond="24375" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="24375" endCentisecond="24665" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24665" endCentisecond="25003" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25003" endCentisecond="25074" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="26485" endCentisecond="26780" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+      </channel>
+    </SeqProp>
     <SeqProp id="6bc2048d-a90e-4111-9cb0-a2c0e1492c09" name="10_Tree_5" EnablePixelChannels="0" OverlayMotionRows="1">
       <channel row="0" col="0" color="0">
         <effect startCentisecond="992" endCentisecond="1091" startIntensity="0" endIntensity="100" settings="INTENSITY" />
@@ -548,9 +871,139 @@
         <effect startCentisecond="6364" endCentisecond="6462" startIntensity="100" endIntensity="0" settings="INTENSITY" />
         <effect startCentisecond="7173" endCentisecond="7181" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="7335" endCentisecond="7413" intensity="100" settings="INTENSITY" />
-        <effect startCentisecond="7555" endCentisecond="7641" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="7542" endCentisecond="7641" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="7787" endCentisecond="7877" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="8017" endCentisecond="8108" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="8143" endCentisecond="8325" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8600" endCentisecond="8657" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8657" endCentisecond="8716" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8716" endCentisecond="8776" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8776" endCentisecond="8835" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8835" endCentisecond="8863" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8863" endCentisecond="8890" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8890" endCentisecond="8922" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8922" endCentisecond="8950" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8950" endCentisecond="8981" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8981" endCentisecond="9010" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9010" endCentisecond="9039" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9039" endCentisecond="9065" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9181" endCentisecond="9226" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="9226" endCentisecond="9260" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9290" endCentisecond="9347" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="9347" endCentisecond="9380" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9861" endCentisecond="9890" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="9980" endCentisecond="10027" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="10027" endCentisecond="10060" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="10095" endCentisecond="10120" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="10210" endCentisecond="10235" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="10440" endCentisecond="10663" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="10663" endCentisecond="10718" intensity="80" settings="INTENSITY" />
+        <effect startCentisecond="10718" endCentisecond="10777" intensity="60" settings="INTENSITY" />
+        <effect startCentisecond="10777" endCentisecond="10831" intensity="40" settings="INTENSITY" />
+        <effect startCentisecond="10831" endCentisecond="10885" intensity="20" settings="INTENSITY" />
+        <effect startCentisecond="11070" endCentisecond="11114" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="11479" endCentisecond="11491" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13319" endCentisecond="13364" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13407" endCentisecond="13452" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13607" endCentisecond="13675" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13760" endCentisecond="13773" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13936" endCentisecond="14003" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14180" endCentisecond="14245" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14423" endCentisecond="14489" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14600" endCentisecond="14646" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14729" endCentisecond="14996" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15090" endCentisecond="15130" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15259" endCentisecond="15347" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15399" endCentisecond="15419" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15463" endCentisecond="15485" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="15485" endCentisecond="15563" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="16179" endCentisecond="16254" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="16523" endCentisecond="16586" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="16821" endCentisecond="16876" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="17065" endCentisecond="17106" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="17270" endCentisecond="17312" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="17468" endCentisecond="17507" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="17658" endCentisecond="17694" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="17694" endCentisecond="17729" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="17729" endCentisecond="17802" startIntensity="100" endIntensity="25" settings="INTENSITY" />
+        <effect startCentisecond="17802" endCentisecond="17838" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18212" endCentisecond="18219" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18219" endCentisecond="18262" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18262" endCentisecond="18291" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18495" endCentisecond="18520" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18520" endCentisecond="18565" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18565" endCentisecond="18640" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18640" endCentisecond="18678" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18848" endCentisecond="18873" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18873" endCentisecond="18918" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18918" endCentisecond="18993" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18993" endCentisecond="19031" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19209" endCentisecond="19234" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19234" endCentisecond="19279" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19279" endCentisecond="19354" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19354" endCentisecond="19392" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19564" endCentisecond="19589" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19589" endCentisecond="19634" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19634" endCentisecond="19709" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19709" endCentisecond="19747" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19924" endCentisecond="19949" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19949" endCentisecond="19994" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19994" endCentisecond="20069" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20069" endCentisecond="20107" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20284" endCentisecond="20309" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20309" endCentisecond="20354" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20354" endCentisecond="20429" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20429" endCentisecond="20467" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20642" endCentisecond="20667" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20667" endCentisecond="20712" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20712" endCentisecond="20787" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20787" endCentisecond="20825" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21001" endCentisecond="21026" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="21026" endCentisecond="21071" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21071" endCentisecond="21134" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="21134" endCentisecond="21156" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21158" endCentisecond="21250" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21386" endCentisecond="21427" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21496" endCentisecond="21522" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21522" endCentisecond="21606" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21747" endCentisecond="21787" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21851" endCentisecond="21881" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21881" endCentisecond="21963" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22107" endCentisecond="22144" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22215" endCentisecond="22242" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22242" endCentisecond="22324" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22465" endCentisecond="22503" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22573" endCentisecond="22596" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22596" endCentisecond="22681" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22818" endCentisecond="22862" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22932" endCentisecond="22960" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22960" endCentisecond="23041" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23180" endCentisecond="23222" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23286" endCentisecond="23309" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23309" endCentisecond="23403" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23536" endCentisecond="23578" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23647" endCentisecond="23673" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23673" endCentisecond="23757" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23892" endCentisecond="23938" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24019" endCentisecond="24310" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24310" endCentisecond="24375" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="24375" endCentisecond="24665" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24665" endCentisecond="25003" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25003" endCentisecond="25074" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="25121" endCentisecond="25166" startIntensity="0" endIntensity="98" settings="INTENSITY" />
+        <effect startCentisecond="25166" endCentisecond="25176" startIntensity="82" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25176" endCentisecond="25269" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25269" endCentisecond="25340" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="25765" endCentisecond="25797" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25797" endCentisecond="25885" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25885" endCentisecond="25955" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="25955" endCentisecond="25976" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25976" endCentisecond="26022" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="26022" endCentisecond="26040" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="26230" endCentisecond="26255" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="26255" endCentisecond="26374" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="26374" endCentisecond="26400" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="26485" endCentisecond="26780" startIntensity="100" endIntensity="0" settings="INTENSITY" />
       </channel>
     </SeqProp>
     <SeqProp id="08d67f9c-c780-49e4-809f-c6bfb393d878" name="11_Tree_4" EnablePixelChannels="0" OverlayMotionRows="1">
@@ -586,6 +1039,169 @@
         <effect startCentisecond="7877" endCentisecond="7885" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="8008" endCentisecond="8017" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="8108" endCentisecond="8117" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="8143" endCentisecond="8325" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8600" endCentisecond="8657" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8657" endCentisecond="8716" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8716" endCentisecond="8776" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8776" endCentisecond="8835" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8835" endCentisecond="8863" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8863" endCentisecond="8890" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8890" endCentisecond="8922" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8922" endCentisecond="8950" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8950" endCentisecond="8981" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8981" endCentisecond="9010" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9010" endCentisecond="9039" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9039" endCentisecond="9065" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9225" endCentisecond="9281" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="9281" endCentisecond="9315" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9355" endCentisecond="9436" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="9436" endCentisecond="9468" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9917" endCentisecond="9940" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="10035" endCentisecond="10090" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="10090" endCentisecond="10120" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="10150" endCentisecond="10175" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="10265" endCentisecond="10295" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="10490" endCentisecond="10663" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="10663" endCentisecond="10718" intensity="80" settings="INTENSITY" />
+        <effect startCentisecond="10718" endCentisecond="10777" intensity="60" settings="INTENSITY" />
+        <effect startCentisecond="10777" endCentisecond="10831" intensity="40" settings="INTENSITY" />
+        <effect startCentisecond="10831" endCentisecond="10885" intensity="20" settings="INTENSITY" />
+        <effect startCentisecond="11114" endCentisecond="11159" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="11202" endCentisecond="11247" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="11379" endCentisecond="11423" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="11467" endCentisecond="11479" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="11491" endCentisecond="11499" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13364" endCentisecond="13407" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13452" endCentisecond="13495" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13719" endCentisecond="13760" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13773" endCentisecond="13784" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13794" endCentisecond="13806" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13936" endCentisecond="14003" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14067" endCentisecond="14112" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14245" endCentisecond="14290" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14355" endCentisecond="14423" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14555" endCentisecond="14729" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14777" endCentisecond="14951" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15062" endCentisecond="15090" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15130" endCentisecond="15195" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15347" endCentisecond="15399" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15419" endCentisecond="15463" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15463" endCentisecond="15485" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="15485" endCentisecond="15563" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="16104" endCentisecond="16179" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="16455" endCentisecond="16523" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="16768" endCentisecond="16821" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="17023" endCentisecond="17065" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="17231" endCentisecond="17270" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="17430" endCentisecond="17468" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="17620" endCentisecond="17658" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="17694" endCentisecond="17729" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="17729" endCentisecond="17802" startIntensity="100" endIntensity="25" settings="INTENSITY" />
+        <effect startCentisecond="17802" endCentisecond="17876" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18202" endCentisecond="18219" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18219" endCentisecond="18262" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18262" endCentisecond="18290" startIntensity="100" endIntensity="3" settings="INTENSITY" />
+        <effect startCentisecond="18290" endCentisecond="18375" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18432" endCentisecond="18455" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18455" endCentisecond="18475" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18475" endCentisecond="18495" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18495" endCentisecond="18520" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18520" endCentisecond="18565" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18565" endCentisecond="18640" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18640" endCentisecond="18730" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18785" endCentisecond="18808" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18808" endCentisecond="18828" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18828" endCentisecond="18848" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18848" endCentisecond="18873" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18873" endCentisecond="18918" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18918" endCentisecond="18993" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18993" endCentisecond="19083" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19146" endCentisecond="19169" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19169" endCentisecond="19189" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19189" endCentisecond="19209" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19209" endCentisecond="19234" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19234" endCentisecond="19279" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19279" endCentisecond="19354" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19354" endCentisecond="19444" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19501" endCentisecond="19524" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19524" endCentisecond="19544" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19544" endCentisecond="19564" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19564" endCentisecond="19589" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19589" endCentisecond="19634" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19634" endCentisecond="19709" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19709" endCentisecond="19799" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19861" endCentisecond="19884" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19884" endCentisecond="19904" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19904" endCentisecond="19924" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19924" endCentisecond="19949" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19949" endCentisecond="19994" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19994" endCentisecond="20069" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20069" endCentisecond="20159" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20221" endCentisecond="20244" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20244" endCentisecond="20264" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20264" endCentisecond="20284" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20284" endCentisecond="20309" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20309" endCentisecond="20354" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20354" endCentisecond="20429" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20429" endCentisecond="20519" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20579" endCentisecond="20602" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20602" endCentisecond="20622" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20622" endCentisecond="20642" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20642" endCentisecond="20667" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20667" endCentisecond="20712" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20712" endCentisecond="20787" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20787" endCentisecond="20877" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20938" endCentisecond="20961" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20961" endCentisecond="20981" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20981" endCentisecond="21001" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="21001" endCentisecond="21026" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="21026" endCentisecond="21071" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21071" endCentisecond="21118" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="21118" endCentisecond="21157" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21158" endCentisecond="21250" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21386" endCentisecond="21427" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21496" endCentisecond="21522" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21522" endCentisecond="21606" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21747" endCentisecond="21787" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21851" endCentisecond="21881" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21881" endCentisecond="21963" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22107" endCentisecond="22144" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22215" endCentisecond="22242" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22242" endCentisecond="22324" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22465" endCentisecond="22503" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22573" endCentisecond="22596" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22596" endCentisecond="22681" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22818" endCentisecond="22862" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22932" endCentisecond="22960" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22960" endCentisecond="23041" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23180" endCentisecond="23222" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23286" endCentisecond="23309" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23309" endCentisecond="23403" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23536" endCentisecond="23578" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23647" endCentisecond="23673" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23673" endCentisecond="23757" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23892" endCentisecond="23938" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24019" endCentisecond="24310" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24310" endCentisecond="24375" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="24375" endCentisecond="24665" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24665" endCentisecond="25003" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25003" endCentisecond="25074" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="25340" endCentisecond="25355" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25355" endCentisecond="25368" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25368" endCentisecond="25385" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="25535" endCentisecond="25557" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25557" endCentisecond="25588" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25588" endCentisecond="25620" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="25745" endCentisecond="25751" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25751" endCentisecond="25760" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25760" endCentisecond="25765" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="25955" endCentisecond="25976" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25976" endCentisecond="26022" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="26022" endCentisecond="26040" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="26230" endCentisecond="26255" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="26255" endCentisecond="26374" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="26374" endCentisecond="26400" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="26485" endCentisecond="26780" startIntensity="100" endIntensity="0" settings="INTENSITY" />
       </channel>
     </SeqProp>
     <SeqProp id="85b021e2-ede2-48b1-9018-06e35b2062f1" name="12_Tree_Middle_Red" EnablePixelChannels="0" OverlayMotionRows="1">
@@ -599,6 +1215,112 @@
         <effect startCentisecond="4935" endCentisecond="5021" startIntensity="0" endIntensity="100" settings="INTENSITY" />
         <effect startCentisecond="5021" endCentisecond="5212" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="5212" endCentisecond="5283" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8143" endCentisecond="8325" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8600" endCentisecond="8657" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8657" endCentisecond="8716" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8716" endCentisecond="8776" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8776" endCentisecond="8835" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8835" endCentisecond="8863" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8863" endCentisecond="8890" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8890" endCentisecond="8922" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8922" endCentisecond="8950" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8950" endCentisecond="8981" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8981" endCentisecond="9010" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9010" endCentisecond="9039" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9039" endCentisecond="9065" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="14003" endCentisecond="14067" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14489" endCentisecond="14555" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15463" endCentisecond="15485" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="15485" endCentisecond="15563" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="17694" endCentisecond="17729" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="17729" endCentisecond="17802" startIntensity="100" endIntensity="25" settings="INTENSITY" />
+        <effect startCentisecond="18219" endCentisecond="18262" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18262" endCentisecond="18290" startIntensity="100" endIntensity="3" settings="INTENSITY" />
+        <effect startCentisecond="18290" endCentisecond="18375" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18432" endCentisecond="18455" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18455" endCentisecond="18520" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18520" endCentisecond="18565" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18565" endCentisecond="18640" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18640" endCentisecond="18730" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18785" endCentisecond="18808" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18808" endCentisecond="18873" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18873" endCentisecond="18918" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18918" endCentisecond="18993" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18993" endCentisecond="19083" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19146" endCentisecond="19169" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19169" endCentisecond="19234" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19234" endCentisecond="19279" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19279" endCentisecond="19354" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19354" endCentisecond="19444" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19501" endCentisecond="19524" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19524" endCentisecond="19589" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19589" endCentisecond="19634" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19634" endCentisecond="19709" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19709" endCentisecond="19799" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19861" endCentisecond="19884" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19884" endCentisecond="19949" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19949" endCentisecond="19994" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19994" endCentisecond="20069" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20069" endCentisecond="20159" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20221" endCentisecond="20244" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20244" endCentisecond="20309" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20309" endCentisecond="20354" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20354" endCentisecond="20429" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20429" endCentisecond="20519" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20579" endCentisecond="20602" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20602" endCentisecond="20667" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20667" endCentisecond="20712" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20712" endCentisecond="20787" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20787" endCentisecond="20877" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20938" endCentisecond="20961" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20961" endCentisecond="21026" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="21026" endCentisecond="21071" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21071" endCentisecond="21134" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="21134" endCentisecond="21157" startIntensity="100" endIntensity="4" settings="INTENSITY" />
+        <effect startCentisecond="21250" endCentisecond="21315" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21315" endCentisecond="21356" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21356" endCentisecond="21427" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21427" endCentisecond="21496" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21606" endCentisecond="21671" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21671" endCentisecond="21717" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21717" endCentisecond="21787" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21787" endCentisecond="21851" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21963" endCentisecond="22032" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22032" endCentisecond="22075" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22075" endCentisecond="22144" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22144" endCentisecond="22215" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22324" endCentisecond="22389" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22389" endCentisecond="22432" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22432" endCentisecond="22503" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22503" endCentisecond="22596" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22681" endCentisecond="22749" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22749" endCentisecond="22786" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22786" endCentisecond="22862" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22862" endCentisecond="22947" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23041" endCentisecond="23107" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23107" endCentisecond="23153" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23153" endCentisecond="23222" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23222" endCentisecond="23286" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23403" endCentisecond="23465" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23465" endCentisecond="23508" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23508" endCentisecond="23578" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23578" endCentisecond="23647" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23757" endCentisecond="23821" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23821" endCentisecond="23867" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23867" endCentisecond="23938" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23938" endCentisecond="24019" startIntensity="100" endIntensity="12" settings="INTENSITY" />
+        <effect startCentisecond="24019" endCentisecond="24310" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24310" endCentisecond="24375" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="24375" endCentisecond="24665" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24665" endCentisecond="25003" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25003" endCentisecond="25074" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="25620" endCentisecond="25650" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25650" endCentisecond="25705" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25705" endCentisecond="25745" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="26170" endCentisecond="26189" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="26189" endCentisecond="26214" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="26214" endCentisecond="26230" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="26485" endCentisecond="26780" startIntensity="100" endIntensity="0" settings="INTENSITY" />
       </channel>
     </SeqProp>
     <SeqProp id="88c3efb7-0dbd-405e-8a13-57c3cb25a0a6" name="13_Tree_Middle_White" EnablePixelChannels="0" OverlayMotionRows="1">
@@ -631,6 +1353,108 @@
         <effect startCentisecond="7885" endCentisecond="7893" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="7999" endCentisecond="8008" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="8117" endCentisecond="8125" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="8143" endCentisecond="8325" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8600" endCentisecond="8657" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8657" endCentisecond="8716" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8716" endCentisecond="8776" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8776" endCentisecond="8835" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8835" endCentisecond="8863" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8863" endCentisecond="8890" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8890" endCentisecond="8922" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8922" endCentisecond="8950" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8950" endCentisecond="8981" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8981" endCentisecond="9010" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9010" endCentisecond="9039" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9039" endCentisecond="9065" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9290" endCentisecond="9346" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="9346" endCentisecond="9380" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9405" endCentisecond="9512" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="9512" endCentisecond="9646" intensity="70" settings="INTENSITY" />
+        <effect startCentisecond="9646" endCentisecond="9748" startIntensity="70" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9974" endCentisecond="10026" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="10026" endCentisecond="10060" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="10085" endCentisecond="10192" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="10192" endCentisecond="10326" intensity="70" settings="INTENSITY" />
+        <effect startCentisecond="10326" endCentisecond="10428" startIntensity="70" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="10550" endCentisecond="10663" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="10663" endCentisecond="10718" intensity="50" settings="INTENSITY" />
+        <effect startCentisecond="10718" endCentisecond="10777" intensity="30" settings="INTENSITY" />
+        <effect startCentisecond="10777" endCentisecond="10831" intensity="10" settings="INTENSITY" />
+        <effect startCentisecond="11159" endCentisecond="11202" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="11423" endCentisecond="11467" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="11499" endCentisecond="11516" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13495" endCentisecond="13541" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13675" endCentisecond="13719" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13784" endCentisecond="13794" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14003" endCentisecond="14067" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14112" endCentisecond="14180" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14290" endCentisecond="14355" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14489" endCentisecond="14555" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14843" endCentisecond="14907" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14996" endCentisecond="15062" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15195" endCentisecond="15259" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15399" endCentisecond="15419" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15463" endCentisecond="15485" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="15485" endCentisecond="15563" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="16030" endCentisecond="16104" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="16394" endCentisecond="16455" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="16709" endCentisecond="16768" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="16978" endCentisecond="17023" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="17189" endCentisecond="17231" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="17392" endCentisecond="17430" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="17582" endCentisecond="17620" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="17694" endCentisecond="17729" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="17729" endCentisecond="17802" startIntensity="100" endIntensity="25" settings="INTENSITY" />
+        <effect startCentisecond="17838" endCentisecond="17914" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18181" endCentisecond="18219" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18219" endCentisecond="18262" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18262" endCentisecond="18291" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21250" endCentisecond="21315" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21315" endCentisecond="21356" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21356" endCentisecond="21427" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21427" endCentisecond="21496" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21606" endCentisecond="21671" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21671" endCentisecond="21717" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21717" endCentisecond="21787" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21787" endCentisecond="21851" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21963" endCentisecond="22032" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22032" endCentisecond="22075" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22075" endCentisecond="22144" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22144" endCentisecond="22215" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22324" endCentisecond="22389" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22389" endCentisecond="22432" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22432" endCentisecond="22503" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22503" endCentisecond="22596" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22681" endCentisecond="22749" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22749" endCentisecond="22786" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22786" endCentisecond="22862" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22862" endCentisecond="22947" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23041" endCentisecond="23107" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23107" endCentisecond="23153" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23153" endCentisecond="23222" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23222" endCentisecond="23286" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23403" endCentisecond="23465" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23465" endCentisecond="23508" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23508" endCentisecond="23578" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23578" endCentisecond="23647" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23757" endCentisecond="23821" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23821" endCentisecond="23867" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23867" endCentisecond="23938" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23938" endCentisecond="24019" startIntensity="100" endIntensity="12" settings="INTENSITY" />
+        <effect startCentisecond="24019" endCentisecond="24310" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24310" endCentisecond="24375" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="24375" endCentisecond="24665" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24665" endCentisecond="25003" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25003" endCentisecond="25074" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="25385" endCentisecond="25423" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25423" endCentisecond="25493" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25493" endCentisecond="25535" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="26040" endCentisecond="26064" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="26064" endCentisecond="26124" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="26124" endCentisecond="26170" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="26400" endCentisecond="26426" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="26426" endCentisecond="26485" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="26485" endCentisecond="26780" startIntensity="100" endIntensity="0" settings="INTENSITY" />
       </channel>
     </SeqProp>
     <SeqProp id="e8f1e5a9-2288-4dbc-8398-e642273bda66" name="14_Tree_Middle_Blue" EnablePixelChannels="0" OverlayMotionRows="1">
@@ -641,6 +1465,68 @@
         <effect startCentisecond="4935" endCentisecond="5021" startIntensity="0" endIntensity="100" settings="INTENSITY" />
         <effect startCentisecond="5021" endCentisecond="5213" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="5213" endCentisecond="5283" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8143" endCentisecond="8325" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8600" endCentisecond="8657" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8657" endCentisecond="8716" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8716" endCentisecond="8776" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8776" endCentisecond="8835" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8835" endCentisecond="8863" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8863" endCentisecond="8890" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8890" endCentisecond="8922" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8922" endCentisecond="8950" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8950" endCentisecond="8981" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8981" endCentisecond="9010" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9010" endCentisecond="9039" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9039" endCentisecond="9065" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="14003" endCentisecond="14067" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14489" endCentisecond="14555" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15463" endCentisecond="15485" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="15485" endCentisecond="15563" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="17694" endCentisecond="17729" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="17729" endCentisecond="17802" startIntensity="100" endIntensity="25" settings="INTENSITY" />
+        <effect startCentisecond="18219" endCentisecond="18262" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18262" endCentisecond="18291" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21250" endCentisecond="21315" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21315" endCentisecond="21356" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21356" endCentisecond="21427" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21427" endCentisecond="21496" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21606" endCentisecond="21671" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21671" endCentisecond="21717" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21717" endCentisecond="21787" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21787" endCentisecond="21851" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21963" endCentisecond="22032" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22032" endCentisecond="22075" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22075" endCentisecond="22144" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22144" endCentisecond="22215" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22324" endCentisecond="22389" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22389" endCentisecond="22432" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22432" endCentisecond="22503" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22503" endCentisecond="22596" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22681" endCentisecond="22749" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22749" endCentisecond="22786" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22786" endCentisecond="22862" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22862" endCentisecond="22947" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23041" endCentisecond="23107" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23107" endCentisecond="23153" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23153" endCentisecond="23222" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23222" endCentisecond="23286" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23403" endCentisecond="23465" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23465" endCentisecond="23508" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23508" endCentisecond="23578" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23578" endCentisecond="23647" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23757" endCentisecond="23821" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23821" endCentisecond="23867" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23867" endCentisecond="23938" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23938" endCentisecond="24019" startIntensity="100" endIntensity="12" settings="INTENSITY" />
+        <effect startCentisecond="24019" endCentisecond="24310" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24310" endCentisecond="24375" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="24375" endCentisecond="24665" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24665" endCentisecond="25003" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25003" endCentisecond="25074" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="26230" endCentisecond="26255" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="26255" endCentisecond="26374" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="26374" endCentisecond="26400" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="26485" endCentisecond="26780" startIntensity="100" endIntensity="0" settings="INTENSITY" />
       </channel>
     </SeqProp>
     <SeqProp id="1c34e2b2-1bcb-4c09-8d46-1f77dabc5e9a" name="15_Tree_2" EnablePixelChannels="0" OverlayMotionRows="1">
@@ -676,6 +1562,169 @@
         <effect startCentisecond="7893" endCentisecond="7901" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="7990" endCentisecond="7999" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="8125" endCentisecond="8134" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="8143" endCentisecond="8325" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8600" endCentisecond="8657" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8657" endCentisecond="8716" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8716" endCentisecond="8776" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8776" endCentisecond="8835" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8835" endCentisecond="8863" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8863" endCentisecond="8890" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8890" endCentisecond="8922" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8922" endCentisecond="8950" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8950" endCentisecond="8981" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8981" endCentisecond="9010" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9010" endCentisecond="9039" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9039" endCentisecond="9065" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9260" endCentisecond="9319" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="9319" endCentisecond="9355" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9380" endCentisecond="9470" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="9470" endCentisecond="9512" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9940" endCentisecond="9980" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="10060" endCentisecond="10120" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="10120" endCentisecond="10147" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="10175" endCentisecond="10210" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="10295" endCentisecond="10320" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="10490" endCentisecond="10663" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="10663" endCentisecond="10718" intensity="80" settings="INTENSITY" />
+        <effect startCentisecond="10718" endCentisecond="10777" intensity="60" settings="INTENSITY" />
+        <effect startCentisecond="10777" endCentisecond="10831" intensity="40" settings="INTENSITY" />
+        <effect startCentisecond="10831" endCentisecond="10885" intensity="20" settings="INTENSITY" />
+        <effect startCentisecond="11114" endCentisecond="11159" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="11202" endCentisecond="11247" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="11379" endCentisecond="11423" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="11467" endCentisecond="11479" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="11491" endCentisecond="11499" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13364" endCentisecond="13407" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13452" endCentisecond="13495" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13719" endCentisecond="13760" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13773" endCentisecond="13784" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13794" endCentisecond="13806" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13936" endCentisecond="14003" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14067" endCentisecond="14112" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14245" endCentisecond="14290" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14355" endCentisecond="14423" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14555" endCentisecond="14729" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14777" endCentisecond="14951" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15062" endCentisecond="15090" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15130" endCentisecond="15195" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15347" endCentisecond="15399" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15419" endCentisecond="15463" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15463" endCentisecond="15485" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="15485" endCentisecond="15563" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="15955" endCentisecond="16030" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="16323" endCentisecond="16394" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="16647" endCentisecond="16709" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="16926" endCentisecond="16978" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="17147" endCentisecond="17189" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="17349" endCentisecond="17392" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="17545" endCentisecond="17582" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="17694" endCentisecond="17729" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="17729" endCentisecond="17802" startIntensity="100" endIntensity="25" settings="INTENSITY" />
+        <effect startCentisecond="17876" endCentisecond="17951" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18144" endCentisecond="18219" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18219" endCentisecond="18262" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18262" endCentisecond="18290" startIntensity="100" endIntensity="3" settings="INTENSITY" />
+        <effect startCentisecond="18290" endCentisecond="18375" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18432" endCentisecond="18455" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18455" endCentisecond="18475" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18475" endCentisecond="18495" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18495" endCentisecond="18520" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18520" endCentisecond="18565" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18565" endCentisecond="18640" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18640" endCentisecond="18730" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18785" endCentisecond="18808" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18808" endCentisecond="18828" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18828" endCentisecond="18848" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18848" endCentisecond="18873" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18873" endCentisecond="18918" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18918" endCentisecond="18993" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18993" endCentisecond="19083" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19146" endCentisecond="19169" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19169" endCentisecond="19189" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19189" endCentisecond="19209" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19209" endCentisecond="19234" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19234" endCentisecond="19279" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19279" endCentisecond="19354" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19354" endCentisecond="19444" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19501" endCentisecond="19524" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19524" endCentisecond="19544" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19544" endCentisecond="19564" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19564" endCentisecond="19589" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19589" endCentisecond="19634" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19634" endCentisecond="19709" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19709" endCentisecond="19799" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19861" endCentisecond="19884" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19884" endCentisecond="19904" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19904" endCentisecond="19924" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19924" endCentisecond="19949" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19949" endCentisecond="19994" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19994" endCentisecond="20069" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20069" endCentisecond="20159" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20221" endCentisecond="20244" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20244" endCentisecond="20264" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20264" endCentisecond="20284" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20284" endCentisecond="20309" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20309" endCentisecond="20354" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20354" endCentisecond="20429" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20429" endCentisecond="20519" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20579" endCentisecond="20602" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20602" endCentisecond="20622" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20622" endCentisecond="20642" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20642" endCentisecond="20667" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20667" endCentisecond="20712" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20712" endCentisecond="20787" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20787" endCentisecond="20877" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20938" endCentisecond="20961" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20961" endCentisecond="20981" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20981" endCentisecond="21001" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="21001" endCentisecond="21026" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="21026" endCentisecond="21071" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21071" endCentisecond="21129" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="21129" endCentisecond="21153" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21158" endCentisecond="21250" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21386" endCentisecond="21427" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21496" endCentisecond="21522" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21522" endCentisecond="21606" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21747" endCentisecond="21787" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21851" endCentisecond="21881" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21881" endCentisecond="21963" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22107" endCentisecond="22144" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22215" endCentisecond="22242" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22242" endCentisecond="22324" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22465" endCentisecond="22503" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22573" endCentisecond="22596" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22596" endCentisecond="22681" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22818" endCentisecond="22862" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22932" endCentisecond="22960" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22960" endCentisecond="23041" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23180" endCentisecond="23222" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23286" endCentisecond="23309" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23309" endCentisecond="23403" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23536" endCentisecond="23578" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23647" endCentisecond="23673" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23673" endCentisecond="23757" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23892" endCentisecond="23938" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24019" endCentisecond="24310" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24310" endCentisecond="24375" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="24375" endCentisecond="24665" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24665" endCentisecond="25003" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25003" endCentisecond="25074" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="25340" endCentisecond="25355" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25355" endCentisecond="25368" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25368" endCentisecond="25385" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="25535" endCentisecond="25557" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25557" endCentisecond="25588" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25588" endCentisecond="25620" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="25745" endCentisecond="25751" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25751" endCentisecond="25760" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25760" endCentisecond="25765" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="25955" endCentisecond="25976" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25976" endCentisecond="26022" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="26022" endCentisecond="26040" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="26230" endCentisecond="26255" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="26255" endCentisecond="26374" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="26374" endCentisecond="26400" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="26485" endCentisecond="26780" startIntensity="100" endIntensity="0" settings="INTENSITY" />
       </channel>
     </SeqProp>
     <SeqProp id="4e22ac9a-f95d-4b49-b6e9-9c74d5c3974a" name="16_Tree_1" EnablePixelChannels="0" OverlayMotionRows="1">
@@ -707,12 +1756,148 @@
         <effect startCentisecond="7671" endCentisecond="7760" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="7901" endCentisecond="7990" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="8134" endCentisecond="8143" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="8143" endCentisecond="8325" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8600" endCentisecond="8657" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8657" endCentisecond="8716" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8716" endCentisecond="8776" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8776" endCentisecond="8835" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8835" endCentisecond="8863" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8863" endCentisecond="8890" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8890" endCentisecond="8922" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8922" endCentisecond="8950" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8950" endCentisecond="8981" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="8981" endCentisecond="9010" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9010" endCentisecond="9039" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9039" endCentisecond="9065" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9200" endCentisecond="9256" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="9256" endCentisecond="9290" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9315" endCentisecond="9372" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="9372" endCentisecond="9405" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9890" endCentisecond="9917" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="9995" endCentisecond="10052" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="10052" endCentisecond="10085" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="10120" endCentisecond="10150" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="10235" endCentisecond="10265" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="10440" endCentisecond="10663" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="10663" endCentisecond="10718" intensity="80" settings="INTENSITY" />
+        <effect startCentisecond="10718" endCentisecond="10777" intensity="60" settings="INTENSITY" />
+        <effect startCentisecond="10777" endCentisecond="10831" intensity="40" settings="INTENSITY" />
+        <effect startCentisecond="10831" endCentisecond="10885" intensity="20" settings="INTENSITY" />
+        <effect startCentisecond="11070" endCentisecond="11114" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="11479" endCentisecond="11491" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13319" endCentisecond="13364" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13407" endCentisecond="13452" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13607" endCentisecond="13675" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13760" endCentisecond="13773" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="13936" endCentisecond="14003" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14180" endCentisecond="14245" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14423" endCentisecond="14489" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14600" endCentisecond="14646" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="14729" endCentisecond="14996" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15090" endCentisecond="15130" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15259" endCentisecond="15347" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15399" endCentisecond="15419" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="15463" endCentisecond="15485" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="15485" endCentisecond="15563" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="15875" endCentisecond="15955" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="16254" endCentisecond="16323" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="16586" endCentisecond="16647" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="16876" endCentisecond="16926" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="17106" endCentisecond="17147" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="17312" endCentisecond="17349" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="17507" endCentisecond="17545" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="17694" endCentisecond="17729" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="17729" endCentisecond="17802" startIntensity="100" endIntensity="25" settings="INTENSITY" />
+        <effect startCentisecond="17914" endCentisecond="17993" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18101" endCentisecond="18219" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18219" endCentisecond="18262" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18262" endCentisecond="18290" startIntensity="100" endIntensity="3" settings="INTENSITY" />
+        <effect startCentisecond="18495" endCentisecond="18520" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18520" endCentisecond="18565" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18565" endCentisecond="18640" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18640" endCentisecond="18678" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18848" endCentisecond="18873" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18873" endCentisecond="18918" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="18918" endCentisecond="18993" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="18993" endCentisecond="19031" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19209" endCentisecond="19234" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19234" endCentisecond="19279" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19279" endCentisecond="19354" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19354" endCentisecond="19392" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19564" endCentisecond="19589" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19589" endCentisecond="19634" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19634" endCentisecond="19709" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19709" endCentisecond="19747" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19924" endCentisecond="19949" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="19949" endCentisecond="19994" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="19994" endCentisecond="20069" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20069" endCentisecond="20107" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20284" endCentisecond="20309" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20309" endCentisecond="20354" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20354" endCentisecond="20429" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20429" endCentisecond="20467" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20642" endCentisecond="20667" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20667" endCentisecond="20712" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="20712" endCentisecond="20787" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="20787" endCentisecond="20825" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21001" endCentisecond="21026" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="21026" endCentisecond="21071" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21071" endCentisecond="21137" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="21137" endCentisecond="21157" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21158" endCentisecond="21250" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21386" endCentisecond="21427" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21496" endCentisecond="21522" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21522" endCentisecond="21606" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21747" endCentisecond="21787" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21851" endCentisecond="21881" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21881" endCentisecond="21963" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22107" endCentisecond="22144" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22215" endCentisecond="22242" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22242" endCentisecond="22324" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22465" endCentisecond="22503" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22573" endCentisecond="22596" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22596" endCentisecond="22681" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22818" endCentisecond="22862" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22932" endCentisecond="22960" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22960" endCentisecond="23041" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23180" endCentisecond="23222" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23286" endCentisecond="23309" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23309" endCentisecond="23403" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23536" endCentisecond="23578" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23647" endCentisecond="23673" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23673" endCentisecond="23757" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23892" endCentisecond="23938" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24019" endCentisecond="24310" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24310" endCentisecond="24375" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="24375" endCentisecond="24665" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="24665" endCentisecond="25003" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25003" endCentisecond="25074" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="25121" endCentisecond="25167" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25167" endCentisecond="25268" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25268" endCentisecond="25340" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="25765" endCentisecond="25797" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25797" endCentisecond="25885" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25885" endCentisecond="25955" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="25955" endCentisecond="25976" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="25976" endCentisecond="26022" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="26022" endCentisecond="26040" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="26230" endCentisecond="26255" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="26255" endCentisecond="26374" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="26374" endCentisecond="26400" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="26485" endCentisecond="26780" startIntensity="100" endIntensity="0" settings="INTENSITY" />
       </channel>
     </SeqProp>
     <SeqProp id="0414a510-f419-42ed-9e47-4d1fa79b52e8" name="07_Multi_Tree" EnablePixelChannels="0" OverlayMotionRows="1">
       <channel row="0" col="0" color="0">
         <effect startCentisecond="129" endCentisecond="5216" intensity="20" settings="INTENSITY" />
         <effect startCentisecond="5216" endCentisecond="5283" startIntensity="20" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9170" endCentisecond="9220" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9400" endCentisecond="9456" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9635" endCentisecond="9690" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="9860" endCentisecond="9917" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="10085" endCentisecond="10140" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="10325" endCentisecond="10373" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="26485" endCentisecond="26780" startIntensity="100" endIntensity="0" settings="INTENSITY" />
       </channel>
     </SeqProp>
     <SeqProp id="5264f100-6807-4bda-afe5-2e33119647aa" name="08_Small_Trees" EnablePixelChannels="0" OverlayMotionRows="1">
@@ -721,6 +1906,50 @@
         <effect startCentisecond="5809" endCentisecond="5865" startIntensity="100" endIntensity="0" settings="INTENSITY" />
         <effect startCentisecond="6630" endCentisecond="6683" intensity="100" settings="INTENSITY" />
         <effect startCentisecond="6683" endCentisecond="6712" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="7542" endCentisecond="7604" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="7604" endCentisecond="7646" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="11778" endCentisecond="11823" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="11823" endCentisecond="11868" intensity="70" settings="INTENSITY" />
+        <effect startCentisecond="11868" endCentisecond="11926" intensity="30" settings="INTENSITY" />
+        <effect startCentisecond="11926" endCentisecond="11961" startIntensity="30" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="11999" endCentisecond="12042" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="12042" endCentisecond="12130" intensity="70" settings="INTENSITY" />
+        <effect startCentisecond="12130" endCentisecond="12178" intensity="50" settings="INTENSITY" />
+        <effect startCentisecond="12178" endCentisecond="12220" intensity="70" settings="INTENSITY" />
+        <effect startCentisecond="12220" endCentisecond="12267" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="12267" endCentisecond="12309" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="12363" endCentisecond="12402" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="12402" endCentisecond="12442" intensity="50" settings="INTENSITY" />
+        <effect startCentisecond="12442" endCentisecond="12482" intensity="70" settings="INTENSITY" />
+        <effect startCentisecond="12482" endCentisecond="12528" intensity="40" settings="INTENSITY" />
+        <effect startCentisecond="12528" endCentisecond="12571" intensity="55" settings="INTENSITY" />
+        <effect startCentisecond="12571" endCentisecond="12615" intensity="40" settings="INTENSITY" />
+        <effect startCentisecond="12615" endCentisecond="12657" intensity="70" settings="INTENSITY" />
+        <effect startCentisecond="12657" endCentisecond="12691" startIntensity="70" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21158" endCentisecond="21250" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21386" endCentisecond="21427" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21496" endCentisecond="21522" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21522" endCentisecond="21606" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21747" endCentisecond="21787" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21851" endCentisecond="21881" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="21881" endCentisecond="21963" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22107" endCentisecond="22144" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22215" endCentisecond="22242" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22242" endCentisecond="22324" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22465" endCentisecond="22503" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22573" endCentisecond="22596" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22596" endCentisecond="22681" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22818" endCentisecond="22862" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22932" endCentisecond="22960" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="22960" endCentisecond="23041" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23180" endCentisecond="23222" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23286" endCentisecond="23309" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23309" endCentisecond="23403" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23536" endCentisecond="23578" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23647" endCentisecond="23673" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23673" endCentisecond="23757" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="23892" endCentisecond="23938" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="26485" endCentisecond="26780" startIntensity="100" endIntensity="0" settings="INTENSITY" />
       </channel>
     </SeqProp>
   </SequenceProps>
@@ -761,6 +1990,20 @@
       <timing centisecond="4935" />
       <timing centisecond="5215" />
       <timing centisecond="5283" />
+      <timing centisecond="25121" />
+      <timing centisecond="25340" />
+      <timing centisecond="25385" />
+      <timing centisecond="25535" />
+      <timing centisecond="25620" />
+      <timing centisecond="25745" />
+      <timing centisecond="25765" />
+      <timing centisecond="25955" />
+      <timing centisecond="26040" />
+      <timing centisecond="26170" />
+      <timing centisecond="26230" />
+      <timing centisecond="26400" />
+      <timing centisecond="26485" />
+      <timing centisecond="26780" />
     </TimingGridFree>
     <TimingGridFree name="Mary Did You Know">
       <timing centisecond="0" />
@@ -845,8 +2088,467 @@
       <timing centisecond="8125" />
       <timing centisecond="8134" />
       <timing centisecond="8143" />
+      <timing centisecond="8325" />
+      <timing centisecond="8450" />
       <timing centisecond="8825" />
       <timing centisecond="9050" />
+      <timing centisecond="9181" />
+      <timing centisecond="9200" />
+      <timing centisecond="9225" />
+      <timing centisecond="9260" />
+      <timing centisecond="9290" />
+      <timing centisecond="9315" />
+      <timing centisecond="9355" />
+      <timing centisecond="9380" />
+      <timing centisecond="9405" />
+      <timing centisecond="9468" />
+      <timing centisecond="9512" />
+      <timing centisecond="9580" />
+      <timing centisecond="9748" />
+      <timing centisecond="9861" />
+      <timing centisecond="10095" />
+      <timing centisecond="10120" />
+      <timing centisecond="10150" />
+      <timing centisecond="10175" />
+      <timing centisecond="10210" />
+      <timing centisecond="10235" />
+      <timing centisecond="10265" />
+      <timing centisecond="10295" />
+      <timing centisecond="10320" />
+      <timing centisecond="10357" />
+      <timing centisecond="10385" />
+    </TimingGridFree>
+    <TimingGridFree name="Mary Did You Know pt2">
+      <timing centisecond="0" />
+      <timing centisecond="7143" />
+      <timing centisecond="7168" />
+      <timing centisecond="7188" />
+      <timing centisecond="7343" />
+      <timing centisecond="7371" />
+      <timing centisecond="7393" />
+      <timing centisecond="7432" />
+      <timing centisecond="7450" />
+      <timing centisecond="7469" />
+      <timing centisecond="7510" />
+      <timing centisecond="7542" />
+      <timing centisecond="7646" />
+      <timing centisecond="7675" />
+      <timing centisecond="7795" />
+      <timing centisecond="7915" />
+      <timing centisecond="8025" />
+      <timing centisecond="8143" />
+      <timing centisecond="8329" />
+      <timing centisecond="8600" />
+      <timing centisecond="8657" />
+      <timing centisecond="8716" />
+      <timing centisecond="8776" />
+      <timing centisecond="8835" />
+      <timing centisecond="8863" />
+      <timing centisecond="8890" />
+      <timing centisecond="8922" />
+      <timing centisecond="8950" />
+      <timing centisecond="8981" />
+      <timing centisecond="9010" />
+      <timing centisecond="9039" />
+      <timing centisecond="9065" />
+      <timing centisecond="9144" />
+      <timing centisecond="9170" />
+      <timing centisecond="9220" />
+      <timing centisecond="9290" />
+      <timing centisecond="9400" />
+      <timing centisecond="9456" />
+      <timing centisecond="9520" />
+      <timing centisecond="9635" />
+      <timing centisecond="9690" />
+      <timing centisecond="9815" />
+      <timing centisecond="9860" />
+      <timing centisecond="9890" />
+      <timing centisecond="9917" />
+      <timing centisecond="9925" />
+      <timing centisecond="9940" />
+      <timing centisecond="9975" />
+      <timing centisecond="9980" />
+      <timing centisecond="10009" />
+      <timing centisecond="10048" />
+      <timing centisecond="10085" />
+      <timing centisecond="10095" />
+      <timing centisecond="10140" />
+      <timing centisecond="10205" />
+      <timing centisecond="10325" />
+      <timing centisecond="10373" />
+      <timing centisecond="10440" />
+      <timing centisecond="10490" />
+      <timing centisecond="10550" />
+      <timing centisecond="10663" />
+      <timing centisecond="10718" />
+      <timing centisecond="10777" />
+      <timing centisecond="10831" />
+      <timing centisecond="10885" />
+    </TimingGridFree>
+    <TimingGridFree name="Rest Ye Gentle">
+      <timing centisecond="0" />
+      <timing centisecond="11020" />
+      <timing centisecond="11070" />
+      <timing centisecond="11114" />
+      <timing centisecond="11159" />
+      <timing centisecond="11202" />
+      <timing centisecond="11247" />
+      <timing centisecond="11291" />
+      <timing centisecond="11361" />
+      <timing centisecond="11379" />
+      <timing centisecond="11423" />
+      <timing centisecond="11467" />
+      <timing centisecond="11479" />
+      <timing centisecond="11491" />
+      <timing centisecond="11499" />
+      <timing centisecond="11516" />
+      <timing centisecond="11559" />
+      <timing centisecond="11620" />
+      <timing centisecond="11646" />
+      <timing centisecond="11687" />
+      <timing centisecond="11733" />
+      <timing centisecond="11778" />
+      <timing centisecond="11823" />
+      <timing centisecond="11868" />
+      <timing centisecond="11918" />
+      <timing centisecond="11999" />
+      <timing centisecond="12042" />
+      <timing centisecond="12091" />
+      <timing centisecond="12130" />
+      <timing centisecond="12178" />
+      <timing centisecond="12220" />
+      <timing centisecond="12225" />
+      <timing centisecond="12309" />
+      <timing centisecond="12363" />
+      <timing centisecond="12402" />
+      <timing centisecond="12442" />
+      <timing centisecond="12482" />
+      <timing centisecond="12528" />
+      <timing centisecond="12571" />
+      <timing centisecond="12615" />
+      <timing centisecond="12715" />
+      <timing centisecond="12752" />
+      <timing centisecond="12797" />
+      <timing centisecond="12847" />
+      <timing centisecond="12879" />
+      <timing centisecond="12930" />
+      <timing centisecond="12940" />
+      <timing centisecond="12950" />
+      <timing centisecond="12975" />
+      <timing centisecond="13065" />
+      <timing centisecond="13105" />
+      <timing centisecond="13130" />
+      <timing centisecond="13150" />
+      <timing centisecond="13195" />
+      <timing centisecond="13215" />
+      <timing centisecond="13244" />
+      <timing centisecond="13308" />
+      <timing centisecond="13319" />
+      <timing centisecond="13364" />
+      <timing centisecond="13407" />
+      <timing centisecond="13452" />
+      <timing centisecond="13495" />
+      <timing centisecond="13541" />
+      <timing centisecond="13584" />
+      <timing centisecond="13607" />
+      <timing centisecond="13640" />
+      <timing centisecond="13675" />
+      <timing centisecond="13719" />
+      <timing centisecond="13760" />
+      <timing centisecond="13773" />
+      <timing centisecond="13784" />
+      <timing centisecond="13794" />
+      <timing centisecond="13806" />
+      <timing centisecond="13848" />
+      <timing centisecond="13907" />
+      <timing centisecond="13936" />
+      <timing centisecond="14003" />
+      <timing centisecond="14067" />
+      <timing centisecond="14112" />
+      <timing centisecond="14180" />
+      <timing centisecond="14245" />
+      <timing centisecond="14290" />
+      <timing centisecond="14355" />
+      <timing centisecond="14423" />
+      <timing centisecond="14489" />
+      <timing centisecond="14555" />
+      <timing centisecond="14600" />
+      <timing centisecond="14646" />
+      <timing centisecond="14729" />
+      <timing centisecond="14777" />
+      <timing centisecond="14843" />
+      <timing centisecond="14907" />
+      <timing centisecond="14951" />
+      <timing centisecond="14996" />
+      <timing centisecond="15062" />
+      <timing centisecond="15090" />
+      <timing centisecond="15130" />
+      <timing centisecond="15195" />
+      <timing centisecond="15259" />
+      <timing centisecond="15305" />
+      <timing centisecond="15347" />
+      <timing centisecond="15399" />
+      <timing centisecond="15419" />
+      <timing centisecond="15463" />
+      <timing centisecond="15485" />
+      <timing centisecond="15524" />
+      <timing centisecond="15563" />
+      <timing centisecond="15707" />
+      <timing centisecond="15875" />
+      <timing centisecond="15955" />
+      <timing centisecond="16030" />
+      <timing centisecond="16104" />
+      <timing centisecond="16179" />
+      <timing centisecond="16254" />
+      <timing centisecond="16323" />
+      <timing centisecond="16394" />
+      <timing centisecond="16455" />
+      <timing centisecond="16523" />
+      <timing centisecond="16586" />
+      <timing centisecond="16647" />
+      <timing centisecond="16709" />
+      <timing centisecond="16768" />
+      <timing centisecond="16821" />
+      <timing centisecond="16876" />
+      <timing centisecond="16926" />
+      <timing centisecond="16978" />
+      <timing centisecond="17023" />
+      <timing centisecond="17065" />
+      <timing centisecond="17106" />
+      <timing centisecond="17147" />
+      <timing centisecond="17189" />
+      <timing centisecond="17231" />
+      <timing centisecond="17270" />
+      <timing centisecond="17312" />
+      <timing centisecond="17349" />
+      <timing centisecond="17392" />
+      <timing centisecond="17430" />
+      <timing centisecond="17468" />
+      <timing centisecond="17507" />
+      <timing centisecond="17545" />
+      <timing centisecond="17582" />
+      <timing centisecond="17620" />
+      <timing centisecond="17658" />
+      <timing centisecond="17694" />
+      <timing centisecond="17729" />
+      <timing centisecond="17802" />
+      <timing centisecond="17838" />
+      <timing centisecond="17876" />
+      <timing centisecond="17914" />
+      <timing centisecond="17951" />
+      <timing centisecond="17993" />
+      <timing centisecond="18035" />
+      <timing centisecond="18101" />
+      <timing centisecond="18144" />
+      <timing centisecond="18181" />
+      <timing centisecond="18192" />
+      <timing centisecond="18202" />
+      <timing centisecond="18212" />
+      <timing centisecond="18219" />
+      <timing centisecond="18262" />
+      <timing centisecond="18291" />
+    </TimingGridFree>
+    <TimingGridFree name="Come Ye Faif">
+      <timing centisecond="0" />
+      <timing centisecond="18291" />
+      <timing centisecond="18383" />
+      <timing centisecond="18448" />
+      <timing centisecond="18489" />
+      <timing centisecond="18519" />
+      <timing centisecond="18560" />
+      <timing centisecond="18629" />
+      <timing centisecond="18655" />
+      <timing centisecond="18739" />
+      <timing centisecond="18804" />
+      <timing centisecond="18850" />
+      <timing centisecond="18880" />
+      <timing centisecond="18920" />
+      <timing centisecond="18984" />
+      <timing centisecond="19014" />
+      <timing centisecond="19096" />
+      <timing centisecond="19165" />
+      <timing centisecond="19208" />
+      <timing centisecond="19240" />
+      <timing centisecond="19277" />
+      <timing centisecond="19348" />
+      <timing centisecond="19375" />
+      <timing centisecond="19457" />
+      <timing centisecond="19522" />
+      <timing centisecond="19565" />
+      <timing centisecond="19598" />
+      <timing centisecond="19636" />
+      <timing centisecond="19706" />
+      <timing centisecond="19729" />
+      <timing centisecond="19814" />
+      <timing centisecond="19882" />
+      <timing centisecond="19919" />
+      <timing centisecond="19951" />
+      <timing centisecond="19995" />
+      <timing centisecond="20065" />
+      <timing centisecond="20080" />
+      <timing centisecond="20093" />
+      <timing centisecond="20174" />
+      <timing centisecond="20240" />
+      <timing centisecond="20286" />
+      <timing centisecond="20313" />
+      <timing centisecond="20355" />
+      <timing centisecond="20419" />
+      <timing centisecond="20442" />
+      <timing centisecond="20536" />
+      <timing centisecond="20598" />
+      <timing centisecond="20641" />
+      <timing centisecond="20669" />
+      <timing centisecond="20711" />
+      <timing centisecond="20780" />
+      <timing centisecond="20806" />
+      <timing centisecond="20890" />
+      <timing centisecond="20954" />
+      <timing centisecond="21000" />
+      <timing centisecond="21025" />
+      <timing centisecond="21071" />
+      <timing centisecond="21163" />
+      <timing centisecond="21265" />
+      <timing centisecond="21440" />
+      <timing centisecond="21620" />
+      <timing centisecond="21795" />
+      <timing centisecond="21975" />
+      <timing centisecond="22155" />
+      <timing centisecond="22330" />
+      <timing centisecond="22510" />
+      <timing centisecond="22680" />
+      <timing centisecond="22865" />
+      <timing centisecond="23045" />
+      <timing centisecond="23225" />
+      <timing centisecond="23410" />
+      <timing centisecond="23580" />
+      <timing centisecond="23755" />
+      <timing centisecond="23935" />
+      <timing centisecond="24835" />
+    </TimingGridFree>
+    <TimingGridFree name="Come Ye Faif pt2">
+      <timing centisecond="0" />
+      <timing centisecond="18290" />
+      <timing centisecond="18375" />
+      <timing centisecond="18432" />
+      <timing centisecond="18455" />
+      <timing centisecond="18475" />
+      <timing centisecond="18495" />
+      <timing centisecond="18520" />
+      <timing centisecond="18565" />
+      <timing centisecond="18640" />
+      <timing centisecond="18678" />
+      <timing centisecond="18730" />
+      <timing centisecond="18785" />
+      <timing centisecond="18800" />
+      <timing centisecond="18820" />
+      <timing centisecond="18840" />
+      <timing centisecond="18860" />
+      <timing centisecond="18880" />
+      <timing centisecond="18920" />
+      <timing centisecond="18985" />
+      <timing centisecond="19010" />
+      <timing centisecond="19105" />
+      <timing centisecond="19146" />
+      <timing centisecond="19175" />
+      <timing centisecond="19195" />
+      <timing centisecond="19215" />
+      <timing centisecond="19235" />
+      <timing centisecond="19280" />
+      <timing centisecond="19355" />
+      <timing centisecond="19450" />
+      <timing centisecond="19501" />
+      <timing centisecond="19630" />
+      <timing centisecond="19715" />
+      <timing centisecond="19723" />
+      <timing centisecond="19810" />
+      <timing centisecond="19861" />
+      <timing centisecond="19884" />
+      <timing centisecond="19904" />
+      <timing centisecond="19924" />
+      <timing centisecond="19948" />
+      <timing centisecond="19980" />
+      <timing centisecond="19993" />
+      <timing centisecond="20070" />
+      <timing centisecond="20107" />
+      <timing centisecond="20160" />
+      <timing centisecond="20221" />
+      <timing centisecond="20345" />
+      <timing centisecond="20430" />
+      <timing centisecond="20525" />
+      <timing centisecond="20579" />
+      <timing centisecond="20705" />
+      <timing centisecond="20785" />
+      <timing centisecond="20880" />
+      <timing centisecond="20938" />
+      <timing centisecond="21055" />
+      <timing centisecond="21070" />
+      <timing centisecond="21155" />
+      <timing centisecond="21178" />
+      <timing centisecond="21296" />
+      <timing centisecond="21345" />
+      <timing centisecond="21435" />
+      <timing centisecond="21475" />
+      <timing centisecond="21515" />
+      <timing centisecond="21540" />
+      <timing centisecond="21565" />
+      <timing centisecond="21610" />
+      <timing centisecond="21785" />
+      <timing centisecond="21925" />
+      <timing centisecond="21965" />
+      <timing centisecond="22020" />
+      <timing centisecond="22060" />
+      <timing centisecond="22105" />
+      <timing centisecond="22145" />
+      <timing centisecond="22195" />
+      <timing centisecond="22235" />
+      <timing centisecond="22260" />
+      <timing centisecond="22280" />
+      <timing centisecond="22325" />
+      <timing centisecond="22500" />
+      <timing centisecond="22550" />
+      <timing centisecond="22595" />
+      <timing centisecond="22860" />
+      <timing centisecond="22910" />
+      <timing centisecond="22955" />
+      <timing centisecond="23220" />
+      <timing centisecond="23265" />
+      <timing centisecond="23310" />
+      <timing centisecond="23575" />
+      <timing centisecond="23620" />
+      <timing centisecond="23665" />
+      <timing centisecond="23930" />
+      <timing centisecond="23957" />
+      <timing centisecond="23981" />
+      <timing centisecond="24023" />
+      <timing centisecond="24310" />
+      <timing centisecond="24375" />
+      <timing centisecond="24665" />
+      <timing centisecond="24750" />
+      <timing centisecond="24847" />
+      <timing centisecond="25003" />
+      <timing centisecond="25074" />
+    </TimingGridFree>
+    <TimingGridFree name="Come Ye Faif pt3">
+      <timing centisecond="0" />
+      <timing centisecond="21157" />
+      <timing centisecond="21227" />
+      <timing centisecond="21313" />
+      <timing centisecond="21363" />
+      <timing centisecond="21387" />
+      <timing centisecond="21493" />
+      <timing centisecond="21528" />
+      <timing centisecond="21579" />
+      <timing centisecond="21672" />
+      <timing centisecond="21723" />
+      <timing centisecond="21747" />
+      <timing centisecond="21850" />
+      <timing centisecond="21881" />
+      <timing centisecond="21947" />
+      <timing centisecond="22034" />
+      <timing centisecond="22078" />
+      <timing centisecond="22105" />
+      <timing centisecond="22211" />
+      <timing centisecond="24019" />
     </TimingGridFree>
   </TimingGrids>
   <BeatView />
