@@ -1,0 +1,20 @@
+12/06/2015 12:22:30 [Scheduler] Schedule Enabled 
+12/06/2015 12:25:05 [Scheduler] (New Show) Show started 
+12/06/2015 12:25:05 [Scheduler] (New Show) Pre-processing: Run sequence: Testing with different effects.tim 
+12/06/2015 12:25:05 [Scheduler] BeginSequential 
+12/06/2015 12:25:05 [Scheduler] BeginSequential: Enqueue:Run sequence: Testing with different effects.tim 
+12/06/2015 12:25:05 [Scheduler] ExecuteNextSequentialItem 
+12/06/2015 12:25:05 [Scheduler] ExecuteNextSequentialItem: Dequeue 
+12/06/2015 12:25:05 [Scheduler] ExecuteAction: Run sequence: Testing with different effects.tim 
+12/06/2015 12:25:05 [Scheduler] ExecuteAction: State != StateType.Waiting 
+12/06/2015 12:25:05 [Scheduler] (New Show) Starting action: Run sequence: Testing with different effects.tim 
+12/06/2015 12:27:30 [Scheduler] (New Show) Stopping action: Run sequence: Testing with different effects.tim 
+12/06/2015 12:27:30 [Scheduler] (New Show) Show stopped immediately 
+12/06/2015 12:27:30 [Scheduler] OnSequentialActionComplete 
+12/06/2015 12:27:30 [Scheduler] (New Show) Sequential action complete: Run sequence: Testing with different effects.tim 
+12/06/2015 12:27:30 [Scheduler] OnSequentialActionComplete: Shutdown NOT requested 
+12/06/2015 12:27:30 [Scheduler] ExecuteNextSequentialItem 
+12/06/2015 14:41:04 [Scheduler] Schedule Enabled 
+12/06/2015 14:41:06 [Scheduler] (New Show) Show stopped immediately 
+12/06/2015 14:41:11 [Scheduler] (New Show) Show stopped immediately 
+12/06/2015 14:41:11 [Scheduler] Schedule Disabled 

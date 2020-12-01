@@ -1,0 +1,8 @@
+11/28/2015 20:41:17 [Vixen.Module.Effect.EffectModuleInstanceBase] Error rendering Custom Value System.NullReferenceException: Object reference not set to an instance of an object.
+   at VixenModules.Effect.CustomValue.CustomValueModule._PreRender(CancellationTokenSource tokenSource)
+   at Vixen.Module.Effect.EffectModuleInstanceBase.Render()    at VixenModules.Effect.CustomValue.CustomValueModule._PreRender(CancellationTokenSource tokenSource)
+   at Vixen.Module.Effect.EffectModuleInstanceBase.Render()
+11/28/2015 20:41:19 [Vixen.Module.Effect.EffectModuleInstanceBase] Error rendering Custom Value System.NullReferenceException: Object reference not set to an instance of an object.
+   at VixenModules.Effect.CustomValue.CustomValueModule._PreRender(CancellationTokenSource tokenSource)
+   at Vixen.Module.Effect.EffectModuleInstanceBase.Render()    at VixenModules.Effect.CustomValue.CustomValueModule._PreRender(CancellationTokenSource tokenSource)
+   at Vixen.Module.Effect.EffectModuleInstanceBase.Render()

@@ -1,0 +1,3 @@
+11/29/2015 16:18:29 [VixenModules.Preview.VixenPreview.VixenPreviewSetup3] VixenPreviewSetup3: access of null Data. (Thread ID: 1) 
+11/29/2015 16:18:29 [VixenModules.Preview.VixenPreview.VixenPreviewSetup3] VixenPreviewSetup3_Resize: Data is null. abandoning resize. (Thread ID: 1) 
+11/29/2015 16:29:58 [VixenModules.Editor.TimedSequenceEditor.TimedSequenceEditorForm] Unsupported audio file C:\Users\Johnw\Desktop\Arduino Projects\Christmas lights\Mary-had-a-little-lamb-Singing-Bell.mid 

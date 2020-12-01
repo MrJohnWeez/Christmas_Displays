@@ -1,0 +1,4 @@
+11/28/2015 20:33:26 [VixenModules.Preview.VixenPreview.VixenPreviewSetup3] VixenPreviewSetup3: access of null Data. (Thread ID: 1) 
+11/28/2015 20:33:26 [VixenModules.Preview.VixenPreview.VixenPreviewSetup3] VixenPreviewSetup3_Resize: Data is null. abandoning resize. (Thread ID: 1) 
+11/28/2015 20:38:26 [VixenModules.Preview.VixenPreview.VixenPreviewSetup3] VixenPreviewSetup3: access of null Data. (Thread ID: 1) 
+11/28/2015 20:38:26 [VixenModules.Preview.VixenPreview.VixenPreviewSetup3] VixenPreviewSetup3_Resize: Data is null. abandoning resize. (Thread ID: 1) 
