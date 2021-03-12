@@ -1,0 +1,26 @@
+12/25/2015 14:18:44 [Vixen.Sys.Managers.HardwareUpdateThread] Controller Generic Serial 9600 error System.IO.IOException: The port 'COM3' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.GenericSerial.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()    at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.GenericSerial.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()
+12/25/2015 14:18:44 [Vixen.Sys.Managers.OutputDeviceExecution`1] Device Generic Serial 9600 experienced an error during execution and was shutdown. 
+12/25/2015 15:02:12 [VixenModules.Output.GenericSerial.Module] COM3 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/25/2015 15:04:12 [VixenModules.Output.GenericSerial.Module] COM3 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/25/2015 15:06:12 [VixenModules.Output.GenericSerial.Module] COM3 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/25/2015 15:15:23 [VixenModules.Output.GenericSerial.Module] COM3 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/25/2015 15:17:23 [VixenModules.Output.GenericSerial.Module] COM3 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/25/2015 15:19:23 [VixenModules.Output.GenericSerial.Module] COM3 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/25/2015 15:19:48 [VixenModules.Output.GenericSerial.Module] COM3 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/25/2015 15:21:23 [VixenModules.Output.GenericSerial.Module] COM3 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/25/2015 15:21:48 [VixenModules.Output.GenericSerial.Module] COM3 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/25/2015 15:23:48 [VixenModules.Output.GenericSerial.Module] COM3 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/25/2015 15:25:48 [VixenModules.Output.GenericSerial.Module] COM3 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 

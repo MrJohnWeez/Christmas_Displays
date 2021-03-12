@@ -1,0 +1,8 @@
+12/04/2015 17:49:48 [VixenApplication.Program] An application error occurred. Please contact the Vixen Dev Team with the following information:
+
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at Vixen.Export.Export.SequenceCacheEnded(Object sender, CacheEventArgs e)
+   at Vixen.Cache.Sequence.PreCachingSequenceEngine.OnCacheEnded(CacheEventArgs e)
+   at System.Threading.ThreadHelper.ThreadStart()    at Vixen.Export.Export.SequenceCacheEnded(Object sender, CacheEventArgs e)
+   at Vixen.Cache.Sequence.PreCachingSequenceEngine.OnCacheEnded(CacheEventArgs e)
+   at System.Threading.ThreadHelper.ThreadStart()

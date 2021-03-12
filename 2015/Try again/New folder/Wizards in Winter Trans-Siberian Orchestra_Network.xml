@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Vixen3_Export>
+	<Resolution>100</Resolution>
+	<OutFile>Wizards in Winter Trans-Siberian Orchestra.vix</OutFile>
+	<Duration>00:03:08.0550000</Duration>
+	<Network>
+		<Controller>
+			<Index>0</Index>
+			<Name>Generic Serial 9600</Name>
+			<StartChan>1</StartChan>
+			<Channels>7</Channels>
+		</Controller>
+	</Network>
+</Vixen3_Export>

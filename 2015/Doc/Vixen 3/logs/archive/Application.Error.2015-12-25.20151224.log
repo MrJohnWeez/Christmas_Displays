@@ -1,0 +1,34 @@
+12/24/2015 09:58:03 [VixenModules.Output.GenericSerial.Module] COM3 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/24/2015 10:00:03 [VixenModules.Output.GenericSerial.Module] COM3 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/24/2015 10:02:03 [VixenModules.Output.GenericSerial.Module] COM3 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/24/2015 10:04:03 [VixenModules.Output.GenericSerial.Module] COM3 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/24/2015 10:45:42 [Vixen.Sys.Managers.HardwareUpdateThread] Controller Generic Serial 9600 error System.IO.IOException: The port 'COM3' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.GenericSerial.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()    at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.GenericSerial.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()
+12/24/2015 10:45:42 [Vixen.Sys.Managers.OutputDeviceExecution`1] Device Generic Serial 9600 experienced an error during execution and was shutdown. 
+12/24/2015 11:01:48 [Vixen.Sys.Managers.HardwareUpdateThread] Controller Generic Serial 9600 error System.IO.IOException: The port 'COM3' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.GenericSerial.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()    at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.GenericSerial.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()
+12/24/2015 11:01:48 [Vixen.Sys.Managers.OutputDeviceExecution`1] Device Generic Serial 9600 experienced an error during execution and was shutdown. 
