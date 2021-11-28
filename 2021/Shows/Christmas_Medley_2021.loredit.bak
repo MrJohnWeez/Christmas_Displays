@@ -1,0 +1,1191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sequence saveFileVersion="15" id="24348343-475a-4c73-afac-b1dc2cf3f87f" totalCentiseconds="24110" WaveHeight="3" TimingGridIdx="3" DragEventsWithTimings="True" DefaultMotionEffectRows="0" ChaseClearFirst="True" ChaseSameRowType="True" ChaseType="1" author="John Wiesner" createdAt="11/27/2021 8:58 PM" musicTitle="Christmas_Medley_2021" NameAreaWidth="160" ZoomWidth="159.717" ZoomHeight="16" musicFilename="D:\Repos\ChristmasLightShows\2021\Music\Christmas_Medle_2021\Christmas_Medley_2021.mp3" GridView="Show All Items" StartColor="FFFF0000" EndColor="FF00FF00">
+  <PreviewClass id="4c10812d-7de5-4c55-800c-3175af7cede0" BackgroundFile="D:\Repos\ChristmasLightShows\2021\20211127_154217.jpg" Brightness="2" Revision="26" Name="2021_Christmas_Lights">
+    <PropClass id="0d77b294-b91a-48ce-8e64-b5956595c4dc" BulbShape="Square" ChannelGrid="Regular,01,1,1,0,Multi" Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="Green,Red,Yellow,Blue" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="" Name="01_Multi_Roof" Parm1="2" Parm2="200">
+      <shape ShapeName="Lines-Connected">
+        <point x="-0.7684404" y="0.4561247" />
+        <point x="0.07459719" y="0.4135053" />
+        <point x="0.8958514" y="0.391128" />
+      </shape>
+    </PropClass>
+    <PropClass id="6001aaed-04ac-4a0e-bc5f-940cfd048974" BulbShape="Square" ChannelGrid="Regular,01,2,2,0,WarmWhite" Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="WarmWhite" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="" Name="02_White_Roof" Parm1="132" Parm2="350">
+      <shape ShapeName="Lines-Connected">
+        <point x="-0.7652912" y="0.445231" />
+        <point x="-0.7637053" y="0.4120546" />
+        <point x="-0.7549826" y="0.4468626" />
+        <point x="-0.7388589" y="0.4120546" />
+        <point x="-0.7346297" y="0.4419678" />
+        <point x="-0.7253784" y="0.4240199" />
+        <point x="-0.7179773" y="0.4435994" />
+        <point x="-0.7121622" y="0.4185811" />
+        <point x="-0.7007963" y="0.4414239" />
+        <point x="-0.6947169" y="0.4158618" />
+        <point x="-0.6859942" y="0.4392484" />
+        <point x="-0.6756856" y="0.4174934" />
+        <point x="-0.6688132" y="0.4392484" />
+        <point x="-0.6577116" y="0.4098791" />
+        <point x="-0.64661" y="0.4392484" />
+        <point x="-0.638416" y="0.4218444" />
+        <point x="-0.6278431" y="0.4397922" />
+        <point x="-0.6170058" y="0.4136862" />
+        <point x="-0.613041" y="0.4354413" />
+        <point x="-0.6045826" y="0.4109669" />
+        <point x="-0.5955957" y="0.4338096" />
+        <point x="-0.575507" y="0.4142301" />
+        <point x="-0.5691633" y="0.4332657" />
+        <point x="-0.5535682" y="0.3995455" />
+        <point x="-0.541938" y="0.4283709" />
+        <point x="-0.5313651" y="0.4066159" />
+        <point x="-0.5266072" y="0.4338096" />
+        <point x="-0.5086333" y="0.4093353" />
+        <point x="-0.4983247" y="0.4359851" />
+        <point x="-0.4832582" y="0.4109669" />
+        <point x="-0.4729496" y="0.4348974" />
+        <point x="-0.4594691" y="0.4028088" />
+        <point x="-0.4523324" y="0.4387045" />
+        <point x="-0.4370016" y="0.4115107" />
+        <point x="-0.4256357" y="0.4338096" />
+        <point x="-0.4105693" y="0.4006332" />
+        <point x="-0.3962959" y="0.427827" />
+        <point x="-0.384137" y="0.4006332" />
+        <point x="-0.3791148" y="0.432178" />
+        <point x="-0.3600836" y="0.4049842" />
+        <point x="-0.3487177" y="0.436529" />
+        <point x="-0.3333869" y="0.406072" />
+        <point x="-0.3238713" y="0.4305464" />
+        <point x="-0.3058973" y="0.3968261" />
+        <point x="-0.2900379" y="0.4305464" />
+        <point x="-0.2776147" y="0.4044404" />
+        <point x="-0.2694207" y="0.4272831" />
+        <point x="-0.2543542" y="0.3968261" />
+        <point x="-0.2503894" y="0.4261954" />
+        <point x="-0.2330067" y="0.3951945" />
+        <point x="-0.2137111" y="0.427827" />
+        <point x="-0.2131824" y="0.4006332" />
+        <point x="-0.1843712" y="0.423476" />
+        <point x="-0.1814636" y="0.3941067" />
+        <point x="-0.171948" y="0.4196689" />
+        <point x="-0.1529167" y="0.3875802" />
+        <point x="-0.1476303" y="0.4202127" />
+        <point x="-0.1336211" y="0.3870364" />
+        <point x="-0.1225195" y="0.414774" />
+        <point x="-0.1103607" y="0.3902996" />
+        <point x="-0.09846614" y="0.4185811" />
+        <point x="-0.08498564" y="0.3924751" />
+        <point x="-0.07071219" y="0.4272831" />
+        <point x="-0.04850902" y="0.3848609" />
+        <point x="-0.04084365" y="0.419125" />
+        <point x="-0.02842046" y="0.3913874" />
+        <point x="-0.01679022" y="0.4202127" />
+        <point x="0.003298346" y="0.3794221" />
+        <point x="0.01810046" y="0.414774" />
+        <point x="0.03052365" y="0.384317" />
+        <point x="0.04056793" y="0.4185811" />
+        <point x="0.06012788" y="0.3875802" />
+        <point x="0.06752893" y="0.4158618" />
+        <point x="0.07995211" y="0.3864925" />
+        <point x="0.09184664" y="0.4120546" />
+        <point x="0.108499" y="0.3848609" />
+        <point x="0.1219795" y="0.4077036" />
+        <point x="0.144447" y="0.3832292" />
+        <point x="0.1653285" y="0.4006332" />
+        <point x="0.1745799" y="0.3750711" />
+        <point x="0.1840955" y="0.3990016" />
+        <point x="0.2010122" y="0.3788782" />
+        <point x="0.2110565" y="0.406072" />
+        <point x="0.2343169" y="0.3631059" />
+        <point x="0.2414537" y="0.4071597" />
+        <point x="0.2567844" y="0.3739834" />
+        <point x="0.2689433" y="0.401721" />
+        <point x="0.2789876" y="0.3701762" />
+        <point x="0.2914107" y="0.4011771" />
+        <point x="0.2985475" y="0.3767027" />
+        <point x="0.3166702" y="0.4011771" />
+        <point x="0.3380804" y="0.3718079" />
+        <point x="0.349182" y="0.406072" />
+        <point x="0.3571117" y="0.371264" />
+        <point x="0.3724424" y="0.4044404" />
+        <point x="0.38513" y="0.3701762" />
+        <point x="0.402311" y="0.3968261" />
+        <point x="0.4123553" y="0.375615" />
+        <point x="0.4247785" y="0.4066159" />
+        <point x="0.4401092" y="0.379966" />
+        <point x="0.453061" y="0.4071597" />
+        <point x="0.4779074" y="0.366913" />
+        <point x="0.490595" y="0.4022649" />
+        <point x="0.5138554" y="0.366913" />
+        <point x="0.5323581" y="0.3935629" />
+        <point x="0.5524466" y="0.3614742" />
+        <point x="0.560905" y="0.3946506" />
+        <point x="0.5849584" y="0.366913" />
+        <point x="0.5965886" y="0.3984577" />
+        <point x="0.6164129" y="0.3641936" />
+        <point x="0.6261928" y="0.3913874" />
+        <point x="0.6439025" y="0.3680007" />
+        <point x="0.6544755" y="0.3968261" />
+        <point x="0.6732424" y="0.362562" />
+        <point x="0.6824937" y="0.3924751" />
+        <point x="0.6978244" y="0.366913" />
+        <point x="0.709719" y="0.3908435" />
+        <point x="0.7247854" y="0.3718079" />
+        <point x="0.7345654" y="0.3924751" />
+        <point x="0.7562399" y="0.3658252" />
+        <point x="0.7668129" y="0.3854047" />
+        <point x="0.7707776" y="0.3951945" />
+        <point x="0.7818792" y="0.3641936" />
+        <point x="0.7948843" y="0.3913874" />
+        <point x="0.811801" y="0.3641936" />
+        <point x="0.8181447" y="0.3897557" />
+        <point x="0.8361187" y="0.3652814" />
+        <point x="0.8506565" y="0.393019" />
+        <point x="0.8617581" y="0.3696324" />
+        <point x="0.8720667" y="0.3897557" />
+        <point x="0.8866044" y="0.3680007" />
+        <point x="0.8940055" y="0.3897557" />
+        <point x="0.8932126" y="0.3647375" />
+      </shape>
+    </PropClass>
+    <PropClass id="25ff4d1d-ee06-4603-90e0-663b7d606a7d" BulbShape="Square" ChannelGrid="Regular,01,3,3,0,Orange" Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="Orange" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="" Name="03_Window_Left" Parm1="13" Parm2="150">
+      <shape ShapeName="Lines-Connected">
+        <point x="-0.6440936" y="0.3948826" />
+        <point x="-0.6454152" y="0.2072457" />
+        <point x="-0.6102602" y="0.2045263" />
+        <point x="-0.5801274" y="0.1963682" />
+        <point x="-0.5571312" y="0.1920172" />
+        <point x="-0.5325492" y="0.1969121" />
+        <point x="-0.5098174" y="0.2012631" />
+        <point x="-0.4902575" y="0.1985437" />
+        <point x="-0.4897288" y="0.3850929" />
+        <point x="-0.5156325" y="0.3856367" />
+        <point x="-0.5330778" y="0.3780225" />
+        <point x="-0.5647966" y="0.3747593" />
+        <point x="-0.60841" y="0.3861806" />
+        <point x="-0.6433007" y="0.3948826" />
+      </shape>
+    </PropClass>
+    <PropClass id="12f4e63b-2f04-491e-b3ee-22c0a7bb7989" BulbShape="Square" ChannelGrid="Regular,01,4,4,0,Purple" Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="Purple" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="" Name="04_Window_Right" Parm1="12" Parm2="150">
+      <shape ShapeName="Lines-Connected">
+        <point x="-0.3460846" y="0.382315" />
+        <point x="-0.345556" y="0.1957658" />
+        <point x="-0.3127799" y="0.1973974" />
+        <point x="-0.2770962" y="0.1848883" />
+        <point x="-0.2451131" y="0.1848883" />
+        <point x="-0.221324" y="0.1925025" />
+        <point x="-0.19357" y="0.1886954" />
+        <point x="-0.1927771" y="0.3665426" />
+        <point x="-0.2279321" y="0.3703497" />
+        <point x="-0.2546287" y="0.3627355" />
+        <point x="-0.2942773" y="0.364911" />
+        <point x="-0.3289036" y="0.377964" />
+        <point x="-0.3444987" y="0.3801394" />
+      </shape>
+    </PropClass>
+    <PropClass id="30acc501-dc10-4d17-84d9-222015ff1fda" BulbShape="Square" ChannelGrid="Regular,01,5,5,0,Blue" Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="Blue" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="" Name="05_Door" Parm1="19" Parm2="250">
+      <shape ShapeName="Lines-Connected">
+        <point x="-0.02253131" y="0.01434355" />
+        <point x="-0.02305997" y="0.3439319" />
+        <point x="-0.09839211" y="0.3466513" />
+        <point x="-0.1039429" y="0.0132558" />
+        <point x="-0.1155731" y="-0.005235957" />
+        <point x="-0.1182164" y="-0.01883283" />
+        <point x="0.004693975" y="-0.02862259" />
+        <point x="0.02795442" y="-0.01720121" />
+        <point x="0.04989326" y="-0.03732459" />
+        <point x="0.07738291" y="-0.03732459" />
+        <point x="0.1682152" y="-0.04084328" />
+        <point x="0.3162363" y="-0.04845753" />
+        <point x="0.3276021" y="-0.06368604" />
+        <point x="0.3109498" y="-0.06259829" />
+        <point x="0.2821386" y="-0.05770341" />
+        <point x="0.218701" y="-0.06803704" />
+        <point x="0.1684795" y="-0.04900141" />
+        <point x="0.1359678" y="-0.04628203" />
+        <point x="0.1058349" y="-0.04845753" />
+        <point x="0.07200151" y="-0.04628203" />
+      </shape>
+    </PropClass>
+    <PropClass id="27da417c-97c4-45e3-b2a0-f08f0d6c27ce" BulbShape="Square" ChannelGrid="Regular,01,6,6,0,White" Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="" Name="06_Window_Large" Parm1="10" Parm2="200">
+      <shape ShapeName="Lines-Connected">
+        <point x="0.08881251" y="0.3455635" />
+        <point x="0.06528773" y="0.3450196" />
+        <point x="0.06528773" y="0.1394348" />
+        <point x="0.1527788" y="0.1220308" />
+        <point x="0.2246747" y="0.1203992" />
+        <point x="0.2709313" y="0.13454" />
+        <point x="0.3000068" y="0.1339961" />
+        <point x="0.3015928" y="0.3466513" />
+        <point x="0.2704026" y="0.3379492" />
+        <point x="0.1773608" y="0.3238085" />
+        <point x="0.09383465" y="0.3455635" />
+      </shape>
+    </PropClass>
+    <PropClass id="ec7267b2-b558-43e5-87bb-8597ed23db82" BulbShape="Square" ChannelGrid="Regular,01,7,7,0,Red" Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="Red" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="" Name="07_LL_Tree" Parm1="11" Parm2="300">
+      <shape ShapeName="Lines-Connected">
+        <point x="-0.8276585" y="0.3078697" />
+        <point x="-0.8987457" y="-0.2034599" />
+        <point x="-0.8745521" y="-0.2053037" />
+        <point x="-0.8270612" y="0.3084843" />
+        <point x="-0.8605139" y="-0.2145224" />
+        <point x="-0.8189967" y="-0.2188244" />
+        <point x="-0.8264638" y="0.306026" />
+        <point x="-0.7927123" y="-0.212064" />
+        <point x="-0.7613504" y="-0.1948558" />
+        <point x="-0.829152" y="0.3084843" />
+        <point x="-0.7326766" y="-0.1758039" />
+        <point x="-0.7592596" y="-0.200387" />
+      </shape>
+    </PropClass>
+    <PropClass id="6364146e-dc65-4552-ac4e-a531c7425fd5" BulbShape="Square" ChannelGrid="Regular,01,8,8,0,White" Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="" Name="08_L_Tree" Parm1="9" Parm2="250">
+      <shape ShapeName="Lines-Connected">
+        <point x="-0.4663324" y="0.3811768" />
+        <point x="-0.5069537" y="-0.08221573" />
+        <point x="-0.4938115" y="-0.09389273" />
+        <point x="-0.4666311" y="0.3756456" />
+        <point x="-0.4779812" y="-0.1018823" />
+        <point x="-0.4513982" y="-0.1055697" />
+        <point x="-0.4627482" y="0.3787185" />
+        <point x="-0.4245165" y="-0.1043406" />
+        <point x="-0.3991282" y="-0.07606994" />
+        <point x="-0.464839" y="0.3774893" />
+      </shape>
+    </PropClass>
+    <PropClass id="5550bfde-1801-460a-9ab1-9a6f7c53b415" BulbShape="Square" ChannelGrid="Regular,01,9,9,0,Blue" Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="Blue" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="" Name="09_M_Tree" Parm1="9" Parm2="250">
+      <shape ShapeName="Lines-Connected">
+        <point x="-0.3051258" y="0.2693234" />
+        <point x="-0.3648629" y="-0.1289237" />
+        <point x="-0.3385786" y="-0.1406007" />
+        <point x="-0.3045284" y="0.2680943" />
+        <point x="-0.3152811" y="-0.1473611" />
+        <point x="-0.2833218" y="-0.138757" />
+        <point x="-0.3045284" y="0.269938" />
+        <point x="-0.2636085" y="-0.1301529" />
+        <point x="-0.2376229" y="-0.1098718" />
+        <point x="-0.3045284" y="0.2674797" />
+      </shape>
+    </PropClass>
+    <PropClass id="c4def4d3-20c3-4a11-ba24-bb1b02cac8e1" BulbShape="Square" ChannelGrid="Regular,01,10,10,0,Red" Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="Red" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="" Name="10_R_Tree" Parm1="9" Parm2="250">
+      <shape ShapeName="Lines-Connected">
+        <point x="0.1008" y="0.3374516" />
+        <point x="0.01268783" y="-0.1757218" />
+        <point x="0.03269973" y="-0.1978466" />
+        <point x="0.1005013" y="0.3337642" />
+        <point x="0.06704855" y="-0.2052216" />
+        <point x="0.1094619" y="-0.208909" />
+        <point x="0.1010987" y="0.3362225" />
+        <point x="0.1390317" y="-0.204607" />
+        <point x="0.1647187" y="-0.1781801" />
+        <point x="0.09990396" y="0.3374516" />
+      </shape>
+    </PropClass>
+    <PropClass id="e4075290-2ad8-4828-9cb2-3f8e3bcb0a15" BulbShape="Square" ChannelGrid="Regular,01,11,11,0,WarmWhite" Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="WarmWhite" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="" Name="11_RR_Tree" Parm1="9" Parm2="200">
+      <shape ShapeName="Lines-Connected">
+        <point x="0.3022457" y="0.262473" />
+        <point x="0.2460929" y="-0.05649346" />
+        <point x="0.2613258" y="-0.06325383" />
+        <point x="0.3046352" y="0.2612438" />
+        <point x="0.280143" y="-0.06878503" />
+        <point x="0.3085181" y="-0.07431625" />
+        <point x="0.306726" y="0.2587855" />
+        <point x="0.3315169" y="-0.07984746" />
+        <point x="0.3580999" y="-0.07001419" />
+        <point x="0.3037392" y="0.2661605" />
+      </shape>
+    </PropClass>
+    <PropClass id="eb4ff58b-fd4b-46e8-accb-f3c75e5fa8d7" BulbShape="Square" ChannelGrid="Regular,01,12,12,0,Multi" Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="Red,Green,Blue,WarmWhite" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="" Name="12_Multi_Tree" Parm1="21" Parm2="300">
+      <shape ShapeName="Lines-Connected">
+        <point x="-0.1658547" y="0.2938165" />
+        <point x="-0.1518165" y="0.2790667" />
+        <point x="-0.1748153" y="0.269848" />
+        <point x="-0.1413625" y="0.2483377" />
+        <point x="-0.1825811" y="0.2385044" />
+        <point x="-0.1312072" y="0.2120775" />
+        <point x="-0.1960219" y="0.2034734" />
+        <point x="-0.122844" y="0.1850361" />
+        <point x="-0.1996062" y="0.1684424" />
+        <point x="-0.1117927" y="0.1506196" />
+        <point x="-0.2127483" y="0.134026" />
+        <point x="-0.1052216" y="0.1186615" />
+        <point x="-0.2166312" y="0.1051408" />
+        <point x="-0.1004426" y="0.08916175" />
+        <point x="-0.2190207" y="0.06888065" />
+        <point x="-0.09745575" y="0.06212028" />
+        <point x="-0.2226049" y="0.03876628" />
+        <point x="-0.09984523" y="0.03384965" />
+        <point x="-0.2324616" y="0.0147977" />
+        <point x="-0.1195585" y="0.004349858" />
+        <point x="-0.2217089" y="-0.01040004" />
+        <point x="-0.1530112" y="-0.0202333" />
+      </shape>
+    </PropClass>
+    <PropClass id="79d2a1d3-72b3-4f77-9377-5b900927a825" BulbShape="Square" ChannelGrid="Regular,01,13,13,0,WarmWhite" Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="WarmWhite" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="" Name="13_Rocks" Parm1="59" Parm2="200">
+      <shape ShapeName="Lines-Connected">
+        <point x="-0.2254964" y="0.03384965" />
+        <point x="-0.2392359" y="0.02032891" />
+        <point x="-0.2320675" y="-0.01408751" />
+        <point x="-0.2311714" y="-0.04604561" />
+        <point x="-0.2634296" y="-0.04666019" />
+        <point x="-0.2616374" y="0.002506121" />
+        <point x="-0.2416254" y="0.02094349" />
+        <point x="-0.2502874" y="0.03200591" />
+        <point x="-0.2679097" y="0.009881068" />
+        <point x="-0.2697019" y="-0.0349832" />
+        <point x="-0.2726887" y="0.03200591" />
+        <point x="-0.2795585" y="0.07379728" />
+        <point x="-0.2998691" y="0.09284922" />
+        <point x="-0.3067389" y="0.06334943" />
+        <point x="-0.3019599" y="-0.0005667736" />
+        <point x="-0.3118165" y="-0.04481646" />
+        <point x="-0.3339193" y="-0.02514993" />
+        <point x="-0.3470615" y="0.0117248" />
+        <point x="-0.3605022" y="-0.02760825" />
+        <point x="-0.3646838" y="-0.04850393" />
+        <point x="-0.3234652" y="-0.03805609" />
+        <point x="-0.3258547" y="-0.0005667736" />
+        <point x="-0.3515417" y="0.0117248" />
+        <point x="-0.3709562" y="-0.009785458" />
+        <point x="-0.3897734" y="-0.02637909" />
+        <point x="-0.3999287" y="-0.001795931" />
+        <point x="-0.3927602" y="0.03139133" />
+        <point x="-0.4157591" y="0.02893301" />
+        <point x="-0.4142656" y="-0.01961872" />
+        <point x="-0.4154603" y="-0.03867067" />
+        <point x="-0.4411473" y="-0.02330619" />
+        <point x="-0.4647434" y="-0.0085563" />
+        <point x="-0.4722106" y="-0.03068114" />
+        <point x="-0.4925213" y="-0.001795931" />
+        <point x="-0.4740027" y="0.02217265" />
+        <point x="-0.4474197" y="-0.01408751" />
+        <point x="-0.4495105" y="-0.06939961" />
+        <point x="-0.4784829" y="-0.04850393" />
+        <point x="-0.4937159" y="-0.02330619" />
+        <point x="-0.4993909" y="-0.04174356" />
+        <point x="-0.5194029" y="-0.05280598" />
+        <point x="-0.5400121" y="-0.04788935" />
+        <point x="-0.54957" y="-0.02945198" />
+        <point x="-0.5728675" y="-0.03068114" />
+        <point x="-0.595269" y="-0.03928525" />
+        <point x="-0.5994505" y="-0.06939961" />
+        <point x="-0.5836203" y="-0.07677456" />
+        <point x="-0.527766" y="-0.06755587" />
+        <point x="-0.5540503" y="-0.03805609" />
+        <point x="-0.5244805" y="-0.006712563" />
+        <point x="-0.4865474" y="0.001276963" />
+        <point x="-0.4286025" y="-0.0085563" />
+        <point x="-0.368268" y="-0.03068114" />
+        <point x="-0.3870852" y="-0.04420188" />
+        <point x="-0.3613983" y="0.01725602" />
+        <point x="-0.3195823" y="-0.005483405" />
+        <point x="-0.2837401" y="-0.005483405" />
+        <point x="-0.2592479" y="0.03569338" />
+        <point x="-0.2362491" y="0.001891542" />
+        <point x="-0.2201201" y="-0.03928525" />
+      </shape>
+    </PropClass>
+    <PropClass id="10ad7d7f-7f23-47ae-9f1e-c8025060a095" BulbShape="Square" ChannelGrid="Regular,01,14,14,0,Red" Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="Red" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="" Name="14_Present_Red" Parm1="18" Parm2="300">
+      <shape ShapeName="Lines-Connected">
+        <point x="-0.6323541" y="-0.0786183" />
+        <point x="-0.817539" y="-0.08906614" />
+        <point x="-0.8169416" y="-0.05772261" />
+        <point x="-0.6341462" y="-0.04604561" />
+        <point x="-0.6356396" y="-0.0085563" />
+        <point x="-0.8145521" y="-0.01531667" />
+        <point x="-0.8142534" y="0.02217265" />
+        <point x="-0.6356396" y="0.03569338" />
+        <point x="-0.6401199" y="0.08731801" />
+        <point x="-0.817539" y="0.07195354" />
+        <point x="-0.8202271" y="0.1112866" />
+        <point x="-0.636237" y="0.1229636" />
+        <point x="-0.6404186" y="0.169057" />
+        <point x="-0.8205258" y="0.1604529" />
+        <point x="-0.8169416" y="0.2133067" />
+        <point x="-0.6416133" y="0.2102338" />
+        <point x="-0.6320554" y="-0.07677456" />
+        <point x="-0.8130587" y="-0.09644109" />
+        <point x="-0.8199285" y="0.2145358" />
+      </shape>
+    </PropClass>
+    <PropClass id="792df0e4-176c-49ef-8516-e734181536aa" BulbShape="Square" ChannelGrid="Regular,01,15,15,0,White" Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="" Name="15_Present_Ribbon" Parm1="12" Parm2="150">
+      <shape ShapeName="Lines-Connected">
+        <point x="-0.8241101" y="0.2182233" />
+        <point x="-0.6434054" y="0.211463" />
+        <point x="-0.8276943" y="0.2176087" />
+        <point x="-0.7348031" y="0.2145358" />
+        <point x="-0.7324136" y="-0.09521193" />
+        <point x="-0.7452571" y="-0.09275361" />
+        <point x="-0.7524256" y="0.215765" />
+        <point x="-0.7219597" y="0.2077755" />
+        <point x="-0.7204663" y="-0.09828483" />
+        <point x="-0.7076228" y="-0.09336819" />
+        <point x="-0.7138951" y="0.2108484" />
+        <point x="-0.6992596" y="0.2077755" />
+        <point x="-0.695078" y="-0.09090988" />
+      </shape>
+    </PropClass>
+    <PropClass id="6e689a55-50c1-4351-afe1-6ef2dbd2d5dc" BulbShape="Square" ChannelGrid="Regular,01,16,16,0,Blue" Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="4" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="Blue" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Tag="" Name="16_Bushes" Parm1="50" Parm2="200">
+      <shape ShapeName="Lines-Connected">
+        <point x="-0.008674002" y="-0.03682693" />
+        <point x="0.0008839282" y="-0.03744151" />
+        <point x="-0.005687154" y="-0.04235814" />
+        <point x="0.01731163" y="-0.04420188" />
+        <point x="0.01044186" y="-0.04911851" />
+        <point x="0.03672618" y="-0.04481646" />
+        <point x="0.04508936" y="-0.05710803" />
+        <point x="0.05793284" y="-0.04911851" />
+        <point x="0.06749077" y="-0.04850393" />
+        <point x="0.06778945" y="-0.06817046" />
+        <point x="0.0910869" y="-0.04666019" />
+        <point x="0.08571058" y="-0.05772261" />
+        <point x="0.108112" y="-0.04666019" />
+        <point x="0.103333" y="-0.06632672" />
+        <point x="0.1248384" y="-0.05587888" />
+        <point x="0.1173712" y="-0.06878503" />
+        <point x="0.1379805" y="-0.05403514" />
+        <point x="0.1391753" y="-0.06632672" />
+        <point x="0.1553043" y="-0.05280598" />
+        <point x="0.1591872" y="-0.06571214" />
+        <point x="0.1762122" y="-0.05710803" />
+        <point x="0.188757" y="-0.07185793" />
+        <point x="0.20399" y="-0.06202467" />
+        <point x="0.2066781" y="-0.07370166" />
+        <point x="0.2344559" y="-0.06939961" />
+        <point x="0.2458059" y="-0.05403514" />
+        <point x="0.2502862" y="-0.06571214" />
+        <point x="0.257156" y="-0.06448298" />
+        <point x="0.2649218" y="-0.05956635" />
+        <point x="0.2750771" y="-0.06939961" />
+        <point x="0.2921022" y="-0.06817046" />
+        <point x="0.3073351" y="-0.07615998" />
+        <point x="0.3219707" y="-0.06263924" />
+        <point x="0.3276457" y="-0.08906614" />
+        <point x="0.3410866" y="-0.06755587" />
+        <point x="0.3485537" y="-0.0786183" />
+        <point x="0.3566182" y="-0.06325383" />
+        <point x="0.363488" y="-0.07923288" />
+        <point x="0.3706564" y="-0.07431625" />
+        <point x="0.3787209" y="-0.08599325" />
+        <point x="0.2765705" y="-0.06939961" />
+        <point x="0.2192229" y="-0.07370166" />
+        <point x="0.1472398" y="-0.06878503" />
+        <point x="0.06151706" y="-0.05895177" />
+        <point x="0.01432477" y="-0.04850393" />
+        <point x="0.01551951" y="-0.03559777" />
+        <point x="0.0731658" y="-0.04727477" />
+        <point x="0.1812899" y="-0.05649346" />
+        <point x="0.2720902" y="-0.06079551" />
+        <point x="0.3479563" y="-0.07308709" />
+        <point x="0.3799157" y="-0.08292035" />
+      </shape>
+    </PropClass>
+  </PreviewClass>
+  <BeatChannels MaxDisplayedRows="10" />
+  <SequenceProps>
+    <SeqProp id="0d77b294-b91a-48ce-8e64-b5956595c4dc" name="01_Multi_Roof" EnablePixelChannels="0" OverlayMotionRows="1">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="1337" endCentisecond="1377" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="1418" endCentisecond="1458" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="1498" endCentisecond="1539" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="1577" endCentisecond="1616" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="1655" endCentisecond="1695" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="1735" endCentisecond="1774" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="1818" endCentisecond="1856" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="1897" endCentisecond="1934" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="1974" endCentisecond="2015" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="2055" endCentisecond="2094" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="2134" endCentisecond="2177" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="2215" endCentisecond="2255" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="2294" endCentisecond="2335" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="2374" endCentisecond="2415" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="2456" endCentisecond="2496" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="2535" endCentisecond="2575" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="2575" endCentisecond="2698" intensity="50" settings="INTENSITY" />
+        <effect startCentisecond="2698" endCentisecond="2735" startIntensity="50" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2735" endCentisecond="2775" startIntensity="100" endIntensity="50" settings="INTENSITY" />
+        <effect startCentisecond="2775" endCentisecond="2814" startIntensity="50" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2814" endCentisecond="2899" startIntensity="100" endIntensity="50" settings="INTENSITY" />
+        <effect startCentisecond="3573" endCentisecond="3614" intensity="50" settings="INTENSITY" />
+        <effect startCentisecond="3614" endCentisecond="3654" intensity="80" settings="INTENSITY" />
+        <effect startCentisecond="3654" endCentisecond="3694" intensity="50" settings="INTENSITY" />
+        <effect startCentisecond="3694" endCentisecond="3734" intensity="90" settings="INTENSITY" />
+        <effect startCentisecond="3734" endCentisecond="3774" intensity="50" settings="INTENSITY" />
+        <effect startCentisecond="3774" endCentisecond="3814" intensity="80" settings="INTENSITY" />
+        <effect startCentisecond="3814" endCentisecond="3856" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="3898" endCentisecond="3937" startIntensity="0" endIntensity="50" settings="INTENSITY" />
+        <effect startCentisecond="3937" endCentisecond="3974" intensity="50" settings="INTENSITY" />
+        <effect startCentisecond="3974" endCentisecond="4038" startIntensity="50" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="4038" endCentisecond="4093" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4857" endCentisecond="4894" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="4940" endCentisecond="4978" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5017" endCentisecond="5058" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5459" endCentisecond="5498" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5539" endCentisecond="5579" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5619" endCentisecond="5658" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5701" endCentisecond="5779" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5779" endCentisecond="5812" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5893" endCentisecond="5937" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="6052" endCentisecond="6092" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="6579" endCentisecond="6693" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="6001aaed-04ac-4a0e-bc5f-940cfd048974" name="02_White_Roof" EnablePixelChannels="0" OverlayMotionRows="1">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="0" endCentisecond="171" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="698" endCentisecond="737" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="779" endCentisecond="817" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="857" endCentisecond="893" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="935" endCentisecond="977" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="1019" endCentisecond="1059" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="1099" endCentisecond="1138" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="1179" endCentisecond="1217" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="1259" endCentisecond="1299" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="1974" endCentisecond="2015" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="2055" endCentisecond="2094" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="2134" endCentisecond="2177" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="2215" endCentisecond="2255" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="2294" endCentisecond="2335" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="2374" endCentisecond="2415" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="2456" endCentisecond="2496" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="2535" endCentisecond="2575" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="2617" endCentisecond="2698" intensity="50" settings="INTENSITY" />
+        <effect startCentisecond="2698" endCentisecond="2735" startIntensity="50" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2735" endCentisecond="2775" startIntensity="100" endIntensity="50" settings="INTENSITY" />
+        <effect startCentisecond="2775" endCentisecond="2814" startIntensity="50" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2814" endCentisecond="2899" startIntensity="100" endIntensity="50" settings="INTENSITY" />
+        <effect startCentisecond="3190" endCentisecond="3210" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="3210" endCentisecond="3230" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="3230" endCentisecond="3254" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="3254" endCentisecond="3280" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="3280" endCentisecond="3307" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="3307" endCentisecond="3371" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="3573" endCentisecond="3614" intensity="50" settings="INTENSITY" />
+        <effect startCentisecond="3614" endCentisecond="3654" intensity="90" settings="INTENSITY" />
+        <effect startCentisecond="3654" endCentisecond="3694" intensity="50" settings="INTENSITY" />
+        <effect startCentisecond="3694" endCentisecond="3734" intensity="80" settings="INTENSITY" />
+        <effect startCentisecond="3734" endCentisecond="3774" intensity="50" settings="INTENSITY" />
+        <effect startCentisecond="3774" endCentisecond="3814" intensity="80" settings="INTENSITY" />
+        <effect startCentisecond="3814" endCentisecond="3856" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="3898" endCentisecond="3937" startIntensity="0" endIntensity="50" settings="INTENSITY" />
+        <effect startCentisecond="3937" endCentisecond="3974" intensity="50" settings="INTENSITY" />
+        <effect startCentisecond="3974" endCentisecond="4038" startIntensity="50" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="4038" endCentisecond="4093" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4817" endCentisecond="4857" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="4894" endCentisecond="4940" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="4978" endCentisecond="5017" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5058" endCentisecond="5096" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5498" endCentisecond="5539" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5579" endCentisecond="5619" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5658" endCentisecond="5701" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5701" endCentisecond="5779" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5972" endCentisecond="6013" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="6579" endCentisecond="6693" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="25ff4d1d-ee06-4603-90e0-663b7d606a7d" name="03_Window_Left" EnablePixelChannels="0" OverlayMotionRows="1">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="171" endCentisecond="187" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="198" endCentisecond="210" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="225" endCentisecond="237" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="251" endCentisecond="264" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="278" endCentisecond="291" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="305" endCentisecond="318" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="331" endCentisecond="347" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="358" endCentisecond="370" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="385" endCentisecond="397" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="411" endCentisecond="424" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="438" endCentisecond="451" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="465" endCentisecond="478" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="3398" endCentisecond="3412" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="3436" endCentisecond="3451" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="3477" endCentisecond="3493" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="3974" endCentisecond="4038" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="4038" endCentisecond="4093" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4497" endCentisecond="4538" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4538" endCentisecond="4579" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4579" endCentisecond="4618" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4618" endCentisecond="4657" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5459" endCentisecond="5498" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5539" endCentisecond="5579" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5619" endCentisecond="5658" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5701" endCentisecond="5779" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5853" endCentisecond="5893" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5937" endCentisecond="5972" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="6013" endCentisecond="6052" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="6418" endCentisecond="6458" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="6579" endCentisecond="6693" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="12f4e63b-2f04-491e-b3ee-22c0a7bb7989" name="04_Window_Right" EnablePixelChannels="0" OverlayMotionRows="1">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="187" endCentisecond="198" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="210" endCentisecond="225" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="237" endCentisecond="251" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="264" endCentisecond="278" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="291" endCentisecond="305" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="318" endCentisecond="331" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="347" endCentisecond="358" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="370" endCentisecond="385" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="397" endCentisecond="411" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="424" endCentisecond="438" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="451" endCentisecond="465" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="478" endCentisecond="491" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="3412" endCentisecond="3436" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="3451" endCentisecond="3477" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="3493" endCentisecond="3535" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="3974" endCentisecond="4038" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="4038" endCentisecond="4093" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4497" endCentisecond="4538" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4538" endCentisecond="4579" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4579" endCentisecond="4618" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4618" endCentisecond="4657" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5498" endCentisecond="5539" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5579" endCentisecond="5619" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5658" endCentisecond="5701" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5701" endCentisecond="5779" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5893" endCentisecond="5937" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="6052" endCentisecond="6092" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="6418" endCentisecond="6458" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="6579" endCentisecond="6693" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="30acc501-dc10-4d17-84d9-222015ff1fda" name="05_Door" EnablePixelChannels="0" OverlayMotionRows="1">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="3974" endCentisecond="4038" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="4038" endCentisecond="4093" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4657" endCentisecond="4699" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4699" endCentisecond="4736" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4736" endCentisecond="4774" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4774" endCentisecond="4817" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5459" endCentisecond="5498" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5539" endCentisecond="5579" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5619" endCentisecond="5658" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5701" endCentisecond="5779" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5779" endCentisecond="5812" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5972" endCentisecond="6013" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="6458" endCentisecond="6495" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="6579" endCentisecond="6693" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="27da417c-97c4-45e3-b2a0-f08f0d6c27ce" name="06_Window_Large" EnablePixelChannels="0" OverlayMotionRows="1">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="3974" endCentisecond="4038" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="4038" endCentisecond="4093" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4657" endCentisecond="4699" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4699" endCentisecond="4736" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4736" endCentisecond="4774" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4774" endCentisecond="4817" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5498" endCentisecond="5539" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5579" endCentisecond="5619" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5658" endCentisecond="5701" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5701" endCentisecond="5779" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5812" endCentisecond="5853" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="6052" endCentisecond="6092" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="6458" endCentisecond="6495" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="6579" endCentisecond="6693" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="ec7267b2-b558-43e5-87bb-8597ed23db82" name="07_LL_Tree" EnablePixelChannels="0" OverlayMotionRows="1">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="398" endCentisecond="411" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="658" endCentisecond="698" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="935" endCentisecond="977" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1019" endCentisecond="1059" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1217" endCentisecond="1259" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1418" endCentisecond="1458" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1695" endCentisecond="1735" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1856" endCentisecond="1897" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1934" endCentisecond="1974" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2094" endCentisecond="2134" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2255" endCentisecond="2294" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2415" endCentisecond="2456" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2496" endCentisecond="2535" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2575" endCentisecond="2617" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2655" endCentisecond="2855" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2899" endCentisecond="3175" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="3535" endCentisecond="3807" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="3856" endCentisecond="4038" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="4117" endCentisecond="4133" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="4133" endCentisecond="4172" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5178" endCentisecond="5218" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5218" endCentisecond="5373" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5373" endCentisecond="5412" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5459" endCentisecond="5498" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5539" endCentisecond="5579" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5619" endCentisecond="5658" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5701" endCentisecond="5779" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5853" endCentisecond="5893" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5937" endCentisecond="5972" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="6092" endCentisecond="6418" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="6579" endCentisecond="6693" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="6364146e-dc65-4552-ac4e-a531c7425fd5" name="08_L_Tree" EnablePixelChannels="0" OverlayMotionRows="1">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="371" endCentisecond="398" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="411" endCentisecond="438" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="737" endCentisecond="779" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="857" endCentisecond="893" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1138" endCentisecond="1179" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1377" endCentisecond="1418" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1458" endCentisecond="1498" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1655" endCentisecond="1695" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1897" endCentisecond="1934" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1974" endCentisecond="2015" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2055" endCentisecond="2094" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2134" endCentisecond="2177" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2215" endCentisecond="2255" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2294" endCentisecond="2335" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2374" endCentisecond="2415" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2655" endCentisecond="2855" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2939" endCentisecond="3054" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="3096" endCentisecond="3136" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="3573" endCentisecond="3686" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="3734" endCentisecond="3768" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="3898" endCentisecond="4038" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="4093" endCentisecond="4117" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="4133" endCentisecond="4172" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4357" endCentisecond="4371" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="4411" endCentisecond="4435" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="4435" endCentisecond="4497" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5218" endCentisecond="5257" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5257" endCentisecond="5412" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5412" endCentisecond="5457" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5498" endCentisecond="5539" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5579" endCentisecond="5619" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5658" endCentisecond="5701" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5701" endCentisecond="5779" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="6013" endCentisecond="6052" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="6131" endCentisecond="6377" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="6579" endCentisecond="6693" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="5550bfde-1801-460a-9ab1-9a6f7c53b415" name="09_M_Tree" EnablePixelChannels="0" OverlayMotionRows="1">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="356" endCentisecond="371" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="817" endCentisecond="857" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1059" endCentisecond="1099" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1179" endCentisecond="1217" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1337" endCentisecond="1377" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1616" endCentisecond="1655" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1774" endCentisecond="1818" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2015" endCentisecond="2055" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2177" endCentisecond="2215" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2335" endCentisecond="2374" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2456" endCentisecond="2496" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2535" endCentisecond="2575" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2698" endCentisecond="2814" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2976" endCentisecond="3019" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="3608" endCentisecond="3651" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="3937" endCentisecond="3974" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="4077" endCentisecond="4093" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="4133" endCentisecond="4172" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4277" endCentisecond="4292" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="4328" endCentisecond="4357" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="4371" endCentisecond="4411" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5257" endCentisecond="5283" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5283" endCentisecond="5412" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5412" endCentisecond="5457" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5459" endCentisecond="5498" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5539" endCentisecond="5579" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5619" endCentisecond="5658" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5701" endCentisecond="5779" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5893" endCentisecond="5937" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5972" endCentisecond="6013" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="6173" endCentisecond="6377" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="6579" endCentisecond="6693" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="c4def4d3-20c3-4a11-ba24-bb1b02cac8e1" name="10_R_Tree" EnablePixelChannels="0" OverlayMotionRows="1">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="346" endCentisecond="356" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="698" endCentisecond="737" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="893" endCentisecond="935" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1099" endCentisecond="1138" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1299" endCentisecond="1337" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1498" endCentisecond="1539" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1577" endCentisecond="1616" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1735" endCentisecond="1774" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1974" endCentisecond="2015" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2055" endCentisecond="2094" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2134" endCentisecond="2177" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2215" endCentisecond="2255" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2294" endCentisecond="2335" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2374" endCentisecond="2415" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2698" endCentisecond="2814" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2939" endCentisecond="3054" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="3096" endCentisecond="3136" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="3573" endCentisecond="3686" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="3734" endCentisecond="3768" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="3898" endCentisecond="4038" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="4053" endCentisecond="4077" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="4133" endCentisecond="4172" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4196" endCentisecond="4211" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="4248" endCentisecond="4277" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="4292" endCentisecond="4328" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5283" endCentisecond="5322" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5322" endCentisecond="5412" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5412" endCentisecond="5457" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5498" endCentisecond="5539" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5579" endCentisecond="5619" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5658" endCentisecond="5701" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5701" endCentisecond="5779" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5853" endCentisecond="5893" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="6052" endCentisecond="6092" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="6212" endCentisecond="6336" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="6579" endCentisecond="6693" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="e4075290-2ad8-4828-9cb2-3f8e3bcb0a15" name="11_RR_Tree" EnablePixelChannels="0" OverlayMotionRows="1">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="331" endCentisecond="346" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="779" endCentisecond="817" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="977" endCentisecond="1019" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1259" endCentisecond="1299" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1539" endCentisecond="1577" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1818" endCentisecond="1856" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="1934" endCentisecond="1974" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2094" endCentisecond="2134" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2255" endCentisecond="2294" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2415" endCentisecond="2456" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2496" endCentisecond="2535" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2575" endCentisecond="2617" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2735" endCentisecond="2775" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="2899" endCentisecond="3175" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="3535" endCentisecond="3807" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="3856" endCentisecond="4053" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="4133" endCentisecond="4172" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4173" endCentisecond="4196" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="4211" endCentisecond="4248" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5322" endCentisecond="5348" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5348" endCentisecond="5373" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5373" endCentisecond="5412" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5459" endCentisecond="5498" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5539" endCentisecond="5579" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5619" endCentisecond="5658" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5701" endCentisecond="5779" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5779" endCentisecond="5812" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5853" endCentisecond="5893" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="6052" endCentisecond="6092" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="6248" endCentisecond="6289" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="6579" endCentisecond="6693" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="eb4ff58b-fd4b-46e8-accb-f3c75e5fa8d7" name="12_Multi_Tree" EnablePixelChannels="0" OverlayMotionRows="1">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="2735" endCentisecond="2775" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="4978" endCentisecond="5017" startIntensity="0" endIntensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5017" endCentisecond="5058" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5498" endCentisecond="5539" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5579" endCentisecond="5619" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5658" endCentisecond="5701" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5701" endCentisecond="5779" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5937" endCentisecond="5972" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="6013" endCentisecond="6052" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="6495" endCentisecond="6534" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="6579" endCentisecond="6693" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="79d2a1d3-72b3-4f77-9377-5b900927a825" name="13_Rocks" EnablePixelChannels="0" OverlayMotionRows="1">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="5459" endCentisecond="5498" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5539" endCentisecond="5579" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5619" endCentisecond="5658" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5701" endCentisecond="5779" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5812" endCentisecond="5853" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="6495" endCentisecond="6534" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="6579" endCentisecond="6693" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="10ad7d7f-7f23-47ae-9f1e-c8025060a095" name="14_Present_Red" EnablePixelChannels="0" OverlayMotionRows="1">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="533" endCentisecond="546" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="573" endCentisecond="584" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="615" endCentisecond="658" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5498" endCentisecond="5539" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5579" endCentisecond="5619" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5658" endCentisecond="5701" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5701" endCentisecond="5779" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5812" endCentisecond="5853" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5972" endCentisecond="6013" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="6534" endCentisecond="6579" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="6579" endCentisecond="6693" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="792df0e4-176c-49ef-8516-e734181536aa" name="15_Present_Ribbon" EnablePixelChannels="0" OverlayMotionRows="1">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="519" endCentisecond="533" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="559" endCentisecond="573" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="601" endCentisecond="615" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5459" endCentisecond="5498" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5539" endCentisecond="5579" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5619" endCentisecond="5658" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5701" endCentisecond="5779" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5937" endCentisecond="5972" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="6534" endCentisecond="6579" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="6579" endCentisecond="6693" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="6e689a55-50c1-4351-afe1-6ef2dbd2d5dc" name="16_Bushes" EnablePixelChannels="0" OverlayMotionRows="1">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="4497" endCentisecond="4538" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4538" endCentisecond="4579" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4579" endCentisecond="4618" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4618" endCentisecond="4657" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4657" endCentisecond="4699" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4699" endCentisecond="4736" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4736" endCentisecond="4774" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4774" endCentisecond="4817" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4817" endCentisecond="4857" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4857" endCentisecond="4894" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4894" endCentisecond="4940" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4940" endCentisecond="4978" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="4978" endCentisecond="5017" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5017" endCentisecond="5058" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5058" endCentisecond="5096" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5096" endCentisecond="5138" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5138" endCentisecond="5178" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5178" endCentisecond="5218" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5218" endCentisecond="5257" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5257" endCentisecond="5283" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5283" endCentisecond="5322" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5322" endCentisecond="5373" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5373" endCentisecond="5412" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5412" endCentisecond="5457" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5498" endCentisecond="5539" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5579" endCentisecond="5619" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5658" endCentisecond="5701" intensity="100" settings="INTENSITY" />
+        <effect startCentisecond="5701" endCentisecond="5779" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5779" endCentisecond="5812" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="5853" endCentisecond="5893" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="6052" endCentisecond="6092" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+        <effect startCentisecond="6579" endCentisecond="6693" startIntensity="100" endIntensity="0" settings="INTENSITY" />
+      </channel>
+    </SeqProp>
+  </SequenceProps>
+  <ArchivedProps />
+  <RgbAggregates />
+  <TimingGrids>
+    <TimingGridFixed name="Fixed 1" spacing="100" />
+    <TimingGridFree name="WantForChristmas">
+      <timing centisecond="0" />
+      <timing centisecond="171" />
+      <timing centisecond="187" />
+      <timing centisecond="198" />
+      <timing centisecond="210" />
+      <timing centisecond="225" />
+      <timing centisecond="237" />
+      <timing centisecond="251" />
+      <timing centisecond="264" />
+      <timing centisecond="278" />
+      <timing centisecond="291" />
+      <timing centisecond="305" />
+      <timing centisecond="318" />
+      <timing centisecond="331" />
+      <timing centisecond="346" />
+      <timing centisecond="356" />
+      <timing centisecond="371" />
+      <timing centisecond="398" />
+      <timing centisecond="411" />
+      <timing centisecond="438" />
+      <timing centisecond="519" />
+      <timing centisecond="533" />
+      <timing centisecond="546" />
+      <timing centisecond="559" />
+      <timing centisecond="573" />
+      <timing centisecond="584" />
+      <timing centisecond="601" />
+      <timing centisecond="615" />
+      <timing centisecond="658" />
+      <timing centisecond="698" />
+      <timing centisecond="737" />
+      <timing centisecond="779" />
+      <timing centisecond="817" />
+      <timing centisecond="857" />
+      <timing centisecond="893" />
+      <timing centisecond="935" />
+      <timing centisecond="977" />
+      <timing centisecond="1019" />
+      <timing centisecond="1059" />
+      <timing centisecond="1099" />
+      <timing centisecond="1138" />
+      <timing centisecond="1179" />
+      <timing centisecond="1217" />
+      <timing centisecond="1259" />
+      <timing centisecond="1299" />
+      <timing centisecond="1337" />
+      <timing centisecond="1377" />
+      <timing centisecond="1418" />
+      <timing centisecond="1458" />
+      <timing centisecond="1498" />
+      <timing centisecond="1539" />
+      <timing centisecond="1577" />
+      <timing centisecond="1616" />
+      <timing centisecond="1655" />
+      <timing centisecond="1695" />
+      <timing centisecond="1735" />
+      <timing centisecond="1774" />
+      <timing centisecond="1818" />
+      <timing centisecond="1856" />
+      <timing centisecond="1897" />
+      <timing centisecond="1934" />
+      <timing centisecond="1974" />
+      <timing centisecond="2015" />
+      <timing centisecond="2055" />
+      <timing centisecond="2094" />
+      <timing centisecond="2134" />
+      <timing centisecond="2177" />
+      <timing centisecond="2215" />
+      <timing centisecond="2255" />
+      <timing centisecond="2294" />
+      <timing centisecond="2335" />
+      <timing centisecond="2374" />
+      <timing centisecond="2415" />
+      <timing centisecond="2456" />
+      <timing centisecond="2496" />
+      <timing centisecond="2535" />
+      <timing centisecond="2575" />
+      <timing centisecond="2617" />
+      <timing centisecond="2655" />
+      <timing centisecond="2698" />
+      <timing centisecond="2735" />
+      <timing centisecond="2775" />
+      <timing centisecond="2814" />
+      <timing centisecond="2855" />
+      <timing centisecond="2899" />
+      <timing centisecond="2939" />
+      <timing centisecond="2976" />
+      <timing centisecond="3019" />
+      <timing centisecond="3054" />
+      <timing centisecond="3096" />
+      <timing centisecond="3136" />
+      <timing centisecond="3175" />
+      <timing centisecond="3190" />
+      <timing centisecond="3210" />
+      <timing centisecond="3230" />
+      <timing centisecond="3254" />
+      <timing centisecond="3280" />
+      <timing centisecond="3307" />
+      <timing centisecond="3371" />
+      <timing centisecond="3398" />
+      <timing centisecond="3412" />
+      <timing centisecond="3436" />
+      <timing centisecond="3451" />
+      <timing centisecond="3477" />
+      <timing centisecond="3493" />
+      <timing centisecond="3535" />
+      <timing centisecond="3573" />
+      <timing centisecond="3614" />
+      <timing centisecond="3654" />
+      <timing centisecond="3694" />
+      <timing centisecond="3734" />
+      <timing centisecond="3774" />
+      <timing centisecond="3814" />
+      <timing centisecond="3856" />
+      <timing centisecond="3898" />
+      <timing centisecond="3937" />
+      <timing centisecond="3974" />
+      <timing centisecond="4038" />
+      <timing centisecond="4053" />
+      <timing centisecond="4077" />
+      <timing centisecond="4093" />
+      <timing centisecond="4117" />
+      <timing centisecond="4133" />
+      <timing centisecond="4172" />
+    </TimingGridFree>
+    <TimingGridFree name="JingleBells">
+      <timing centisecond="0" />
+      <timing centisecond="4173" />
+      <timing centisecond="4196" />
+      <timing centisecond="4211" />
+      <timing centisecond="4248" />
+      <timing centisecond="4277" />
+      <timing centisecond="4292" />
+      <timing centisecond="4328" />
+      <timing centisecond="4357" />
+      <timing centisecond="4371" />
+      <timing centisecond="4411" />
+      <timing centisecond="4435" />
+      <timing centisecond="4497" />
+      <timing centisecond="4538" />
+      <timing centisecond="4579" />
+      <timing centisecond="4618" />
+      <timing centisecond="4657" />
+      <timing centisecond="4699" />
+      <timing centisecond="4736" />
+      <timing centisecond="4774" />
+      <timing centisecond="4817" />
+      <timing centisecond="4857" />
+      <timing centisecond="4894" />
+      <timing centisecond="4940" />
+      <timing centisecond="4978" />
+      <timing centisecond="5017" />
+      <timing centisecond="5058" />
+      <timing centisecond="5096" />
+      <timing centisecond="5138" />
+      <timing centisecond="5178" />
+      <timing centisecond="5218" />
+      <timing centisecond="5257" />
+      <timing centisecond="5283" />
+      <timing centisecond="5322" />
+      <timing centisecond="5348" />
+      <timing centisecond="5373" />
+      <timing centisecond="5412" />
+      <timing centisecond="5459" />
+      <timing centisecond="5498" />
+      <timing centisecond="5539" />
+      <timing centisecond="5579" />
+      <timing centisecond="5619" />
+      <timing centisecond="5658" />
+      <timing centisecond="5701" />
+      <timing centisecond="5740" />
+      <timing centisecond="5779" />
+      <timing centisecond="5812" />
+      <timing centisecond="5853" />
+      <timing centisecond="5893" />
+      <timing centisecond="5937" />
+      <timing centisecond="5972" />
+      <timing centisecond="6013" />
+      <timing centisecond="6052" />
+      <timing centisecond="6092" />
+      <timing centisecond="6131" />
+      <timing centisecond="6173" />
+      <timing centisecond="6212" />
+      <timing centisecond="6248" />
+      <timing centisecond="6289" />
+      <timing centisecond="6336" />
+      <timing centisecond="6377" />
+      <timing centisecond="6418" />
+      <timing centisecond="6458" />
+      <timing centisecond="6495" />
+      <timing centisecond="6534" />
+      <timing centisecond="6579" />
+      <timing centisecond="6693" />
+    </TimingGridFree>
+    <TimingGridFree name="WeatherOutside">
+      <timing centisecond="0" />
+      <timing centisecond="6693" />
+      <timing centisecond="9264" />
+    </TimingGridFree>
+  </TimingGrids>
+  <BeatView />
+  <PropViews>
+    <PropView name="Show All Items" verson="2" zoom="0" scrollh="0" scrollv="0">
+      <ViewMember id="0d77b294-b91a-48ce-8e64-b5956595c4dc" category="Item_Summary" />
+      <ViewMember id="6001aaed-04ac-4a0e-bc5f-940cfd048974" category="Item_Summary" />
+      <ViewMember id="25ff4d1d-ee06-4603-90e0-663b7d606a7d" category="Item_Summary" />
+      <ViewMember id="12f4e63b-2f04-491e-b3ee-22c0a7bb7989" category="Item_Summary" />
+      <ViewMember id="30acc501-dc10-4d17-84d9-222015ff1fda" category="Item_Summary" />
+      <ViewMember id="27da417c-97c4-45e3-b2a0-f08f0d6c27ce" category="Item_Summary" />
+      <ViewMember id="ec7267b2-b558-43e5-87bb-8597ed23db82" category="Item_Summary" />
+      <ViewMember id="6364146e-dc65-4552-ac4e-a531c7425fd5" category="Item_Summary" />
+      <ViewMember id="5550bfde-1801-460a-9ab1-9a6f7c53b415" category="Item_Summary" />
+      <ViewMember id="c4def4d3-20c3-4a11-ba24-bb1b02cac8e1" category="Item_Summary" />
+      <ViewMember id="e4075290-2ad8-4828-9cb2-3f8e3bcb0a15" category="Item_Summary" />
+      <ViewMember id="eb4ff58b-fd4b-46e8-accb-f3c75e5fa8d7" category="Item_Summary" />
+      <ViewMember id="79d2a1d3-72b3-4f77-9377-5b900927a825" category="Item_Summary" />
+      <ViewMember id="10ad7d7f-7f23-47ae-9f1e-c8025060a095" category="Item_Summary" />
+      <ViewMember id="792df0e4-176c-49ef-8516-e734181536aa" category="Item_Summary" />
+      <ViewMember id="6e689a55-50c1-4351-afe1-6ef2dbd2d5dc" category="Item_Summary" />
+    </PropView>
+  </PropViews>
+  <MotionPaks />
+  <pictures />
+</sequence>
